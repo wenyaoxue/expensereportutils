@@ -6,3 +6,5 @@
 * ScrapeEmojis -> emojis.csv
 * ??? -> Google Sheets Workbook
 * convert -> Google Sheets month sheets
+  * copy paste category formula
+  * clean notes where needed
