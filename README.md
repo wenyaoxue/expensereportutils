@@ -23,6 +23,7 @@
 #### Automated
 Note this is currently a very specialized functionality
 * Save a Chase statement csv, a Discover statement csv, and a Venmo statement csv to the V1 folder (must have all 3)
+* Optional: emojis.csv has a nonzero chance of becoming outdated if new emojis are created. To update, execute ScrapeEmojis.java, select the relevant output in the console, ctrl+c, go to emojis.csv, ctrl+a, ctrl+v
 * Open convert.py in a text editor and make sure the values in lines 3-5 match the names of the 3 statements you've saved
 * Execute convert.py
 * Select the output in the console, ctrl+c, click cell A1 on the relevant month sheet, ctrl+shift+v
