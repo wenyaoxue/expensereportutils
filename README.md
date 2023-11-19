@@ -16,7 +16,7 @@
     * click `Copy Categories`
     * click cell A6 on the summary sheet of the Google Sheets workbook, ctrl+v
     * (you can delete any extra rows, just note if you try to add more you'll have to recreate the formatting as well)
-    * in cells O6 to O24, type the amount you wish to spend for the relevant category each month (****************** rn only makes will make sense for the spent view.. ahh i will fix this for this version)
+    * in cells P6 to P24, type the amount you wish to spend for the relevant category each month
 ### Transaction Logging (in the Google Sheets workbook)
 #### Manual (eg from receipts, from memory)
 * For each transaction fill out cells A,B,C,D,F,G (as needed) in one row on the relevant month sheet
