@@ -4,10 +4,9 @@
 
 ## V1 Instructions
 ### Setup
-Setup can be done in order at the beginning, but if you ever need to update, simply redo all parts of the step marked `*`
 * download and extract the `V1` folder
 * make a copy of the Google Sheets template by clicking [this link](https://docs.google.com/spreadsheets/d/103QHBMYBoI8n6MZCgLJl2yzjwSCeDDdJxejeyd8QNSE/copy)
-* `*` click on the `categorizing.html` file
+* click on the `categorizing.html` file
   * customize your categories
   * update spreadsheet task 1
     * click `Copy Formula`
