@@ -38,5 +38,5 @@ Note this is currently a very specialized functionality
   * each month sheet's aggregate calculations and pie chart in columns I and J
   * summary sheet aggregate calculations (can change view using the dropdown in cell A5) and multiple bar chart
     * each category row is darker on months where values are higher for that category
-    * in cells B2-M2, type anything under the month for which the values should be counted toward the monthly averages
+    * in cells B2-M2, type anything under the months for which the values should be counted toward the monthly averages
     * values in cells O6 to O24 are highlighted red if the monthly average is greater than the budget, green if less than 90% of the budget, yellow otherwise
