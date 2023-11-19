@@ -1,0 +1,210 @@
+<head>
+    <style>
+        .display {
+            background-color: aqua;
+            min-height: 10px;
+        }
+        .cat {
+            max-width: 200px;
+            border: 1px solid black;
+            display: inline-block;
+            margin: 10px;
+            padding: 5px;
+        }
+        .prch {
+            display: inline-block;
+            border: 1px solid black;
+            margin: 3px;
+            padding: 1px;
+        }
+        .prch:hover {
+            border: 1px solid red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Expense Categories</h1>
+    
+    <p>Customize your categories and their purchases - add using the form, remove by clicking. <button onclick="reset()" style="font-size:10px">Reset to defaults</button>
+        <span id="mouseposnote" style="font-size: 12px; color: red;"></span>
+        <br>
+        Each <span class="cat" style="background-color: rgb(236, 236, 255);"><b>category</b></span> will be used to group and visualize transactions,
+        where each category group includes those transactions where one of the category's <span class="prch" style="background-color: rgb(186, 196, 205);"><b>purchase</b></span>s is part of the note
+    </p>
+
+    <div class="display">
+    </div>
+    
+    <div>
+        Formula:
+        <div id="formula" style="display: inline-block;width: 500px; height: 35px; overflow-y: hidden; overflow-x: auto; white-space: nowrap;"></div>
+        <button onclick="copyFormula()">Copy Formula</button>
+
+        Categories:
+        <div id="categories" style="display: inline-block;width: 100px; height: 35px; overflow-x: hidden; overflow-y: auto; white-space: nowrap;"></div>
+        <button onclick="copyCategories()">Copy Categories</button>
+    </div>
+
+    <!-- <form> -->
+        <div class="cat" style="background-color: rgb(236, 236, 255);">
+            <input id="newcat"> <button onclick="addCat()">Add Category</button>
+        </div>
+
+        <div class="prch" style="background-color: rgb(186, 196, 205);">
+            Category <select id="newprchcats"> </select> : <input id="newprch"> <button onclick="addPrch()">Add Purchase</button>
+        </div>
+    <!-- </form> -->
+</body>
+
+<script>
+    const display = document.querySelector(".display")
+    const formula = document.querySelector("#formula")
+    const categories = document.querySelector("#categories")
+    const prchcatdd = document.querySelector("#newprchcats")
+    const mouseposnote = document.querySelector("#mouseposnote")
+
+    function getDefaultCats() {
+        return {
+            "tithe":["tithe"],
+            "housing":["rent","laundry"],
+            "electricity":["electricity","reliant"],
+            "internet":["spectrum"],
+            "transportation":["gas","bus","bike","plane","uber","lyft","parking","taxi","train","subway","metro"],
+            "entertainment":["concert","movie","festival","lesson","activity","workshop","experience","museum","ticket","app"],
+            "food":["food","breakfast","lunch","dinner","dessert","snack","drink","groceries"],
+            "therapy":["therapy"],
+            "massages":["massage","spa"],
+            "phone plan later":["phone"],
+            "supplies fund":["toiletries","broken things","office supplies","home goods"],
+            "fun fund":["trip","retreat","hat","pant","shirt","dress","sock","underwear","swimsuit","accessories","decor","gadget","souvenir","toy","crafts"],
+            "parent fund":["parents"],
+            "savings":["house","car","family","doctor","hospital","dentist"],
+            "support":["donation","gift","support"],
+            "income":["ltimindtree","babysit","work","tutor"],
+            "401k":[],
+            "taxes":[],
+            "insurance":[],
+            "online courses":[],
+        }
+    }
+    var cats = getDefaultCats()
+    displayDict()
+
+    function generateFormula() {
+        if (cats.length == 0)
+            return '="other"'
+        let formula = "="
+        for (let cat in cats) {
+            formula += 'if(regexmatch(F2, "' + cats[cat].join("|") + '"), "' + cat + '", '
+        }
+        formula += '"other"'
+        for (let cat in cats)
+        formula += ")"
+        return formula
+    }
+    function generateCategories() {
+        let categories = ""
+        for (let cat in cats) {
+            categories += cat + "<br>"
+        }
+        return categories + "other";
+    }
+    function copyFormula() {
+        navigator.clipboard.writeText(formula.innerHTML);
+    }
+    function copyCategories() {
+        navigator.clipboard.writeText(categories.innerText);
+    }
+    function displayDict() {
+        display.innerHTML = ""
+        prchcatdd.innerHTML = ""
+        for (let cat in cats) {
+            var catele = document.createElement("div")
+            catele.classList.add("cat")
+            catele.innerHTML = "<b>"+ cat + "</b><br>"
+            catele.dataset.cat = cat
+            catele.style.backgroundColor = genColor(20)
+            catele.onmouseenter = function(e) {e.currentTarget.style.backgroundColor = "rgb(255, 206, 206)"; mouseposnote.innerHTML = "Remove category <b>" + cat + "</b>?"}
+            catele.onmouseleave = function(e) {e.currentTarget.style.backgroundColor = genColor(20); mouseposnote.innerText = ""}
+            catele.onclick = deleteCat
+
+            if (cats[cat].length == 0)
+                cats[cat].push(cat)
+            for (let i = 0; i < cats[cat].length; i++) {
+                let prch = cats[cat][i]
+                var prchele = document.createElement("div")
+                prchele.classList.add("prch")
+                prchele.innerText = prch
+                prchele.style.backgroundColor = genColor(100)
+                prchele.onmouseenter = function(e) {e.currentTarget.style.backgroundColor = "rgb(255, 126, 126)"; 
+                    mouseposnote.innerText = "Remove purchase " + prch + "?";
+                    if (prch == cat && cats[cat].length == 1)
+                        mouseposnote.innerHTML += " Nah, we're gonna keep that, we need something to check for to keep the category."
+                    e.stopPropagation
+                }
+                prchele.onmouseleave = function(e) {e.currentTarget.style.backgroundColor = genColor(100); mouseposnote.innerHTML = "Remove category <b>" + cat + "</b>?"}
+                prchele.onclick = deletePrch
+
+                catele.appendChild(prchele)
+            }
+            display.appendChild(catele)
+
+            var catopt = document.createElement("option")
+            catopt.innerText = cat
+            prchcatdd.appendChild(catopt)
+            formula.innerHTML = generateFormula()
+            categories.innerHTML = generateCategories()
+        }
+
+    }
+    function genColor(toprange) {
+        let r = Math.floor(Math.random()*toprange)+(256-toprange)
+        let g = Math.floor(Math.random()*toprange)+(256-toprange)
+        let b = Math.floor(Math.random()*toprange)+(256-toprange)
+        return "rgb("+r+","+g+","+b+")"
+    }
+    function reset() {
+        cats = getDefaultCats()
+        displayDict()
+    }
+    function deleteCat(e) {
+        let cattodel = e.currentTarget.dataset.cat
+        delete cats[cattodel]
+        displayDict()
+    }
+    function deletePrch(e) {
+        let cattodelfrom = e.currentTarget.parentElement.dataset.cat
+        let prchtodel = e.currentTarget.innerText
+        let index = cats[cattodelfrom].indexOf(prchtodel);
+        if (index > -1) { // only splice array when item is found
+            cats[cattodelfrom].splice(index, 1); // 2nd parameter means remove one item only
+        }
+        displayDict()
+        e.stopPropagation();
+    }
+    function addCat() {
+        let newcat = document.querySelector("#newcat").value
+        if (newcat in cats)
+            mouseposnote.innerHTML = "That didn't work, " + newcat + " was already a category."
+        else if (newcat == "")
+            mouseposnote.innerHTML = "That didn't work, category cannot be blank."
+        else {
+            cats[newcat] = []
+            mouseposnote.innerHTML = ""
+        }
+        displayDict()
+        document.querySelector("#newcat").value = ""
+    }
+    function addPrch() {
+        let catForNewPrch = prchcatdd.value
+        let newprch = document.querySelector("#newprch").value
+        if (newprch in cats[catForNewPrch])
+            mouseposnote.innerHTML = "That didn't work, " + newprch + " was already a purchase."
+        else {
+            cats[catForNewPrch].push(newprch)
+            mouseposnote.innerHTML = ""
+        }
+        displayDict()
+        document.querySelector("#newprch").value = ""
+    }
+</script>
