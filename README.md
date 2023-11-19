@@ -16,9 +16,16 @@
   * update spreadsheet task 2
     * click `Copy Categories`
     * click cell A6 on the summary sheet, ctrl+v
-    * (you can delete any extra rows)
+    * (you can delete any extra rows, just note if you try to add more you'll have to recreate the formatting as well)
     * in cells O6 to O24, type the amount you wish to spend for the relevant category each month (****************** rn only makes will make sense for the spent view.. ahh i will fix this for this version)
-    * 
+### Automated Transaction Logging
+Note this is currently a very specialized functionality
+* Save a Chase statement csv, a Discover statement csv, and a Venmo statement csv to the V1 folder
+* Open convert.py in a text editor and make sure the values in lines 3-5 match the names of the 3 statements you've saved
+* Run convert.py
+* Select the output in the console, ctrl+c, click cell A1 on the relevant month sheet, ctrl+shift+v
+*  
+### Visualizing
 * ScrapeEmojis -> emojis.csv
 * ??? -> Google Sheets Workbook
 * convert -> Google Sheets month sheets
