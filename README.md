@@ -17,7 +17,7 @@
     * click cell A6 on the summary sheet of the Google Sheets workbook, ctrl+v
     * (you can delete any extra rows, just note if you try to add more you'll have to recreate the formatting as well)
     * in cells O6 to O24, type the amount you wish to spend for the relevant category each month (****************** rn only makes will make sense for the spent view.. ahh i will fix this for this version)
-### Transaction Logging
+### Transaction Logging (in the Google Sheets workbook)
 #### Manual (eg from receipts, from memory)
 * For each transaction fill out cells A,B,C,D,F,G (as needed) in one row on the relevant month sheet
 #### Automated
@@ -30,7 +30,7 @@ Note this is currently a very specialized functionality
 * Re-paste cells in column E
 * Review notes, rewrite if needed
 * Review if you have any manual logs to avoid duplicates, and keep as much accurate information as you have (note some transaction dates recorded from the statements may be up to a few days off)
-### Visualizing
+### Visualizing (in the Google Sheets workbook)
 * After logging some transactions on a month, update cell J1 on the relevant month sheet to the number of days' worth of data has been logged for the month (eg used to calculate per day averages)
 * Some features:
   * click the 3 lines by a column header (cells A1-H1) on a month sheet to sort or filter
