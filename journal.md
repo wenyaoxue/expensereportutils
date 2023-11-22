@@ -4,10 +4,10 @@
 * ScrapeEmojis.java
 ## 11/18
 * came to me in a vision as i was trying to fall asleep
-## 11/19 (~1 hr)
+## 11/19 (<5 hrs)
 finished
 # V2
-## 11/19 (<4 hrs)
+## note from 11/19
 * i originally wanted v2 to be serverless, all client-side - so that people could use without downloading/using the command line, as accessible as possible, but client side can't read/write from files, and that is imperative. i guess i'll be using react/nodejs
 ## 11/20
 * routes - mission and home (noted that read/write from public folder)
