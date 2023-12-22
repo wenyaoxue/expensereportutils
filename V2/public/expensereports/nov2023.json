@@ -1,0 +1,6592 @@
+[
+  {
+    "Date": "1/3/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 20.2,
+    "Note": "food, mcds",
+    "Unknown": "",
+    "Details on": "chase 0104",
+    "Edited": ""
+  },
+  {
+    "Date": "1/4/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 44.34,
+    "Note": "souvenir, janets bday, ellicor toys",
+    "Unknown": "",
+    "Details on": "chase 0105",
+    "Edited": ""
+  },
+  {
+    "Date": "1/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 260,
+    "Note": "doctor, dentist, 2 fillings",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/6/2023",
+    "Time": "17:16",
+    "Type": "P",
+    "Amount": 5.4,
+    "Note": "hobby lobby, blue yarn crafts",
+    "Unknown": "",
+    "Details on": "chase 0106",
+    "Edited": ""
+  },
+  {
+    "Date": "1/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 85,
+    "Note": "remnant retreat",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 39.63,
+    "Note": "gas, shell, sugar land",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/10/2023",
+    "Time": "13:09",
+    "Type": "P",
+    "Amount": 6.51,
+    "Note": "snack, xingfutang boba ice cream",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 20,
+    "Note": "lunch n stuff, zelle to phillip",
+    "Unknown": "",
+    "Details on": "chase 0110",
+    "Edited": ""
+  },
+  {
+    "Date": "1/14/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 9.99,
+    "Note": "food, doordash dashpass",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/14/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 21.63,
+    "Note": "souvenir, miniso",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/15/2023",
+    "Time": "14:24",
+    "Type": "P",
+    "Amount": 7.58,
+    "Note": "crafts, michaels, caron cake yarn",
+    "Unknown": "",
+    "Details on": "chase 0117",
+    "Edited": ""
+  },
+  {
+    "Date": "1/15/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 6.44,
+    "Note": "drink, sharetea",
+    "Unknown": "",
+    "Details on": "chase 0117",
+    "Edited": ""
+  },
+  {
+    "Date": "1/17/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 9,
+    "Note": "dinner, zelle to grace",
+    "Unknown": "",
+    "Details on": "chase 0117",
+    "Edited": ""
+  },
+  {
+    "Date": "1/18/2023",
+    "Time": "12:09",
+    "Type": "P",
+    "Amount": 14.07,
+    "Note": "lunch, ten sec yunnan rice noodles",
+    "Unknown": "",
+    "Details on": "",
+    "Edited": ""
+  },
+  {
+    "Date": "1/19/2023",
+    "Time": "19:43",
+    "Type": "P",
+    "Amount": 60.75,
+    "Note": "dinner, tiger noodle house, shrimp roll chicken rice string bean beef, 52.83+tax",
+    "Unknown": "",
+    "Details on": "chase 0120",
+    "Edited": ""
+  },
+  {
+    "Date": "1/19/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": -26,
+    "Note": "dinner, zelle from elie",
+    "Unknown": "",
+    "Details on": "chase 0119",
+    "Edited": ""
+  },
+  {
+    "Date": "1/19/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 16.19,
+    "Note": "food, ten seconds yunnan",
+    "Unknown": "",
+    "Details on": "chase 0119",
+    "Edited": ""
+  },
+  {
+    "Date": "1/20/2023",
+    "Time": "18:30",
+    "Type": "P",
+    "Amount": 11.85,
+    "Note": "dinner, cava pearland",
+    "Unknown": "",
+    "Details on": "chase 0120",
+    "Edited": ""
+  },
+  {
+    "Date": "1/20/2023",
+    "Time": "19:59",
+    "Type": "P",
+    "Amount": 19.99,
+    "Note": "gas, pearland",
+    "Unknown": "",
+    "Details on": "chase 0123",
+    "Edited": ""
+  },
+  {
+    "Date": "1/22/2023",
+    "Time": "6:39",
+    "Type": "P",
+    "Amount": 10.65,
+    "Note": "breakfast, wendy's combo",
+    "Unknown": "",
+    "Details on": "chase 0123",
+    "Edited": ""
+  },
+  {
+    "Date": "1/22/2023",
+    "Time": "16:12",
+    "Type": "P",
+    "Amount": 16.33,
+    "Note": "snack, 6 insomnia cookies",
+    "Unknown": "",
+    "Details on": "chase 0123",
+    "Edited": ""
+  },
+  {
+    "Date": "1/22/2023",
+    "Time": "16:33",
+    "Type": "P",
+    "Amount": 14.71,
+    "Note": "office supplies, charger",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/22/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 21.76,
+    "Note": "barnes and noble, eg workshop",
+    "Unknown": "",
+    "Details on": "chase 0123",
+    "Edited": ""
+  },
+  {
+    "Date": "1/22/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": -5.05,
+    "Note": "venmo from catherine",
+    "Unknown": "??",
+    "Details on": "venmo",
+    "Edited": ""
+  },
+  {
+    "Date": "1/22/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/24/2023",
+    "Time": "11:50",
+    "Type": "P",
+    "Amount": 7.08,
+    "Note": "food, whole foods, condensed milk and brown sugar",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/24/2023",
+    "Time": "19:04",
+    "Type": "P",
+    "Amount": 17.72,
+    "Note": "food, doordash, sesame chicken, 17.41+fees",
+    "Unknown": "",
+    "Details on": "chase 0125, venmo",
+    "Edited": ""
+  },
+  {
+    "Date": "1/24/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 15.73,
+    "Note": "lunch, sweetgreen",
+    "Unknown": "",
+    "Details on": "chase 0125",
+    "Edited": ""
+  },
+  {
+    "Date": "1/24/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "chase 0125",
+    "Edited": ""
+  },
+  {
+    "Date": "1/24/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "chase 0125",
+    "Edited": ""
+  },
+  {
+    "Date": "1/25/2023",
+    "Time": "9:28",
+    "Type": "P",
+    "Amount": 3.26,
+    "Note": "breakfast, hasbrown and mcmuffin",
+    "Unknown": "",
+    "Details on": "chase 0126",
+    "Edited": ""
+  },
+  {
+    "Date": "1/25/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 12.73,
+    "Note": "lunch, pelicana, date is i think",
+    "Unknown": "",
+    "Details on": "cash",
+    "Edited": ""
+  },
+  {
+    "Date": "1/26/2023",
+    "Time": "18:19",
+    "Type": "P",
+    "Amount": 5.44,
+    "Note": "food, mcds, nuggets",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 5.99,
+    "Note": "food, pizza",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "chase 0127",
+    "Edited": ""
+  },
+  {
+    "Date": "1/27/2023",
+    "Time": "11:17",
+    "Type": "P",
+    "Amount": 11.5,
+    "Note": "lunch, naya falafel bowl",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 5.99,
+    "Note": "dinner, pizza",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 21.21,
+    "Note": "food, venmo, doordash",
+    "Unknown": "",
+    "Details on": "chase 0127",
+    "Edited": ""
+  },
+  {
+    "Date": "1/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": -6.12,
+    "Note": "venmo from bella",
+    "Unknown": "??",
+    "Details on": "",
+    "Edited": ""
+  },
+  {
+    "Date": "1/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/28/2023",
+    "Time": "12:26",
+    "Type": "P",
+    "Amount": 0,
+    "Note": "lunch, big mac",
+    "Unknown": "",
+    "Details on": "",
+    "Edited": ""
+  },
+  {
+    "Date": "1/28/2023",
+    "Time": "18:36",
+    "Type": "P",
+    "Amount": 18.03,
+    "Note": "dinner, urban hawkers, smokin joe",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/28/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/28/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/28/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/29/2023",
+    "Time": "11:18",
+    "Type": "P",
+    "Amount": 2.86,
+    "Note": "food, milk",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/29/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 18.95,
+    "Note": "ticket for iu movie",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/29/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/29/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/30/2023",
+    "Time": "12:54",
+    "Type": "P",
+    "Amount": 5.44,
+    "Note": "lunch, mcds, 20 nuggets",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/30/2023",
+    "Time": "16:03",
+    "Type": "P",
+    "Amount": 30.9,
+    "Note": "groceries, blueberries, cheese, chicken, eggs, salad, 4 tomatoes, 2 bell peppers",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/30/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 17.79,
+    "Note": "food, venmo, doordash",
+    "Unknown": "",
+    "Details on": "chase 0131",
+    "Edited": ""
+  },
+  {
+    "Date": "1/30/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 10,
+    "Note": "hercules corp old westbury ny",
+    "Unknown": "???",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/30/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "chase 0130",
+    "Edited": ""
+  },
+  {
+    "Date": "1/31/2023",
+    "Time": "13:20",
+    "Type": "P",
+    "Amount": 11.5,
+    "Note": "lunch, 2 stewed pork burgers",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/31/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 4.56,
+    "Note": "food, dining hall",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/31/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 5.65,
+    "Note": "idk",
+    "Unknown": "???",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "1/31/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/1/2023",
+    "Time": "7:42",
+    "Type": "P",
+    "Amount": 5.76,
+    "Note": "dinner, has brown + egg mcmuffin",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/1/2023",
+    "Time": "21:30",
+    "Type": "P",
+    "Amount": 18.79,
+    "Note": "dinner, popeyes 3pc combo",
+    "Unknown": "",
+    "Details on": "chase 0203, venmo 0202, doordash 0201",
+    "Edited": ""
+  },
+  {
+    "Date": "2/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/3/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 10.97,
+    "Note": "food, mcdonalds",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/3/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/3/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/4/2023",
+    "Time": "16:14",
+    "Type": "P",
+    "Amount": 11.1,
+    "Note": "drinks, 2 sodas and a juice",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/4/2023",
+    "Time": "16:28",
+    "Type": "P",
+    "Amount": 14.23,
+    "Note": "home goods, cvs 10 cups, 6 popcorn",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/4/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 5.5,
+    "Note": "dinner, pizza, zelle to malachi",
+    "Unknown": "",
+    "Details on": "chase 0206",
+    "Edited": ""
+  },
+  {
+    "Date": "2/4/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 21.16,
+    "Note": "dinner, didn't get, reissued as credits",
+    "Unknown": "",
+    "Details on": "chase 0206, venmo 0205, doordash 0204",
+    "Edited": ""
+  },
+  {
+    "Date": "2/4/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/4/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/5/2023",
+    "Time": "13:30",
+    "Type": "P",
+    "Amount": 14.04,
+    "Note": "lunch, sgd",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 8.71,
+    "Note": "bambina blue, dessert",
+    "Unknown": "???",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 5.44,
+    "Note": "food, mcdonalds",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/7/2023",
+    "Time": "13:36",
+    "Type": "P",
+    "Amount": 15.66,
+    "Note": "lunch, five guys, little burger and little fries",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/7/2023",
+    "Time": "22:50",
+    "Type": "P",
+    "Amount": 4.67,
+    "Note": "snack, mcflurry",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": -5,
+    "Note": "snack, mcflurry, venmo from sarah,",
+    "Unknown": "",
+    "Details on": "venmo from sarah 0207",
+    "Edited": ""
+  },
+  {
+    "Date": "2/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 17.17,
+    "Note": "maybe the can opener, office supplies",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/8/2023",
+    "Time": "20:46",
+    "Type": "P",
+    "Amount": 0.98,
+    "Note": "dinner, dig bowl",
+    "Unknown": "",
+    "Details on": "chase 0210, venmo 0209, doordash 0208",
+    "Edited": ""
+  },
+  {
+    "Date": "2/8/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 11.75,
+    "Note": "lunch, pelicana",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/8/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/9/2023",
+    "Time": "22:06",
+    "Type": "P",
+    "Amount": 8.66,
+    "Note": "dinner, 20 nuggets and 2 med fries",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/9/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/9/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 18.98,
+    "Note": "bus ticket (philly to ny flixbus)",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/10/2023",
+    "Time": "9:00",
+    "Type": "P",
+    "Amount": 2.99,
+    "Note": "pants, peaches & cream nyc",
+    "Unknown": "",
+    "Details on": "cash",
+    "Edited": ""
+  },
+  {
+    "Date": "2/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 14.68,
+    "Note": "lunch, shake shack, burger and shake",
+    "Unknown": "",
+    "Details on": "chase 0210",
+    "Edited": ""
+  },
+  {
+    "Date": "2/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 16.21,
+    "Note": "dinner, bbq chicken (post fg)",
+    "Unknown": "",
+    "Details on": "chase 0213",
+    "Edited": ""
+  },
+  {
+    "Date": "2/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 12.82,
+    "Note": "lunch, chinah",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/11/2023",
+    "Time": "19:23",
+    "Type": "P",
+    "Amount": 17.79,
+    "Note": "dinner, popeyes 3 pc combo (sub 14.14)",
+    "Unknown": "",
+    "Details on": "chase 0213, venmo 0212, doordash 0211",
+    "Edited": ""
+  },
+  {
+    "Date": "2/11/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "chase 0213",
+    "Edited": ""
+  },
+  {
+    "Date": "2/11/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/12/2023",
+    "Time": "14:22",
+    "Type": "P",
+    "Amount": 24.53,
+    "Note": "lunch, chote nawab (sub 21.05)",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": -6.5,
+    "Note": "lunch, chote from teagan",
+    "Unknown": "",
+    "Details on": "venmo from teagan",
+    "Edited": ""
+  },
+  {
+    "Date": "2/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 8.31,
+    "Note": "food, muffin and cereal from deli",
+    "Unknown": "",
+    "Details on": "discover 0216",
+    "Edited": ""
+  },
+  {
+    "Date": "2/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/13/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 11.92,
+    "Note": "food, sweetgreen",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/14/2023",
+    "Time": "13:17",
+    "Type": "P",
+    "Amount": 15.66,
+    "Note": "lunch, lil burger lil fries",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/14/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 9.99,
+    "Note": "food, dash pass",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/15/2023",
+    "Time": "20:15",
+    "Type": "P",
+    "Amount": 22.21,
+    "Note": "dinner, sesame chicken (sub 20:08 17:41)",
+    "Unknown": "",
+    "Details on": "chase 0217, venmo 0216, doordash 0215",
+    "Edited": ""
+  },
+  {
+    "Date": "2/15/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 25,
+    "Note": "drinks, starbucks recharge",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/15/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 11.75,
+    "Note": "lunch, pelicana",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/17/2023",
+    "Time": "16:25",
+    "Type": "P",
+    "Amount": 10.11,
+    "Note": "dinner, 20 nuggets + mcflurry",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/18/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/18/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/19/2023",
+    "Time": "18:28",
+    "Type": "P",
+    "Amount": 17.56,
+    "Note": "dinner, yamazaki ramen (bryn mawr), sub 15.33",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/20/2023",
+    "Time": "21:31",
+    "Type": "P",
+    "Amount": 33.12,
+    "Note": "dinner, happy lamb hot pot, sub 28.07",
+    "Unknown": "",
+    "Details on": "chase 0221",
+    "Edited": ""
+  },
+  {
+    "Date": "2/20/2023",
+    "Time": "22:08",
+    "Type": "P",
+    "Amount": 7.02,
+    "Note": "drink, vivi bubble tea",
+    "Unknown": "",
+    "Details on": "chase 0222",
+    "Edited": ""
+  },
+  {
+    "Date": "2/21/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 6.25,
+    "Note": "snack, pretzels",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/21/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 7,
+    "Note": "metro, septa to philly",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/21/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 31,
+    "Note": "peter pan bus, new york to philly (for next weekend)",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/21/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro, stop to broome",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/21/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 23.98,
+    "Note": "flixbus, philly to new york (since i missed)",
+    "Unknown": "",
+    "Details on": "discover 0222",
+    "Edited": ""
+  },
+  {
+    "Date": "2/22/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 10,
+    "Note": "break it down philly ticket",
+    "Unknown": "",
+    "Details on": "chase 0223, venmo to jocelyn 0222",
+    "Edited": ""
+  },
+  {
+    "Date": "2/22/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 11.75,
+    "Note": "lunch, pelicana",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/22/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 23.98,
+    "Note": "flixbus",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/23/2023",
+    "Time": "22:34",
+    "Type": "P",
+    "Amount": 7.16,
+    "Note": "drinks, 3 gatorades",
+    "Unknown": "",
+    "Details on": "discover 0223",
+    "Edited": ""
+  },
+  {
+    "Date": "2/23/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 13.01,
+    "Note": "food, pio bagel",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/23/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 105.87,
+    "Note": "pepper, 2 bras, bag, underwear",
+    "Unknown": "",
+    "Details on": "chase 0224",
+    "Edited": ""
+  },
+  {
+    "Date": "2/24/2023",
+    "Time": "17:42",
+    "Type": "P",
+    "Amount": 16.22,
+    "Note": "dinner, sgd, beef bulgogi",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/24/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 10.5,
+    "Note": "?",
+    "Unknown": "",
+    "Details on": "chase 0227, venmo to catherine",
+    "Edited": ""
+  },
+  {
+    "Date": "2/24/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 18.25,
+    "Note": "bus, wanderu",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/24/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "subway",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/25/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 49,
+    "Note": "food, 3 $14cheesesteaks, $7 drink for helen",
+    "Unknown": "",
+    "Details on": "cash",
+    "Edited": ""
+  },
+  {
+    "Date": "2/25/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 0.64,
+    "Note": "socks and floss after gift card",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/25/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 1.61,
+    "Note": "prime video",
+    "Unknown": "???",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/25/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "subway",
+    "Unknown": "",
+    "Details on": "chase 0227",
+    "Edited": ""
+  },
+  {
+    "Date": "2/25/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 22.75,
+    "Note": "taxi",
+    "Unknown": "",
+    "Details on": "chase 0227, venmo to lyft",
+    "Edited": ""
+  },
+  {
+    "Date": "2/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 32.91,
+    "Note": "taxi",
+    "Unknown": "",
+    "Details on": "chase 0227",
+    "Edited": ""
+  },
+  {
+    "Date": "2/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 4.93,
+    "Note": "taxi",
+    "Unknown": "",
+    "Details on": "chase 0227",
+    "Edited": ""
+  },
+  {
+    "Date": "2/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 7,
+    "Note": "train",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "subway",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": -11.61,
+    "Note": "taxis idk",
+    "Unknown": "",
+    "Details on": "venmo from nate",
+    "Edited": ""
+  },
+  {
+    "Date": "2/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": -26.5,
+    "Note": "taxis and others",
+    "Unknown": "",
+    "Details on": "venmo from helen",
+    "Edited": ""
+  },
+  {
+    "Date": "2/27/2023",
+    "Time": "21:36",
+    "Type": "P",
+    "Amount": 22.21,
+    "Note": "dinner, sesame chicken (sub 17.41)",
+    "Unknown": "",
+    "Details on": "chase 0301, venmo 0228, doordash",
+    "Edited": ""
+  },
+  {
+    "Date": "2/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 8.66,
+    "Note": "food, mcdonalds",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "subway",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "subway",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "2/28/2023",
+    "Time": "13:28",
+    "Type": "P",
+    "Amount": 11.53,
+    "Note": "lunch, cheeseburger 5 guys",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/1/2023",
+    "Time": "11:42",
+    "Type": "P",
+    "Amount": 11.25,
+    "Note": "lunch, deluxe mccrispy meal",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/2/2023",
+    "Time": "10:42",
+    "Type": "P",
+    "Amount": 8.98,
+    "Note": "breakfast, mcmuffin meal",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/2/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/3/2023",
+    "Time": "21:38",
+    "Type": "P",
+    "Amount": 6.41,
+    "Note": "dinner, mccrispy + fries",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/3/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.86,
+    "Note": "breakfast, muffin",
+    "Unknown": "3/5???",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/3/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/3/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/4/2023",
+    "Time": "16:00",
+    "Type": "P",
+    "Amount": 23.36,
+    "Note": "dinner, nachos + cake",
+    "Unknown": "?????",
+    "Details on": "chase 0306, venmo 0305",
+    "Edited": ""
+  },
+  {
+    "Date": "3/4/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "3:00",
+    "Type": "P",
+    "Amount": 20,
+    "Note": "food, midnight seafood pancake",
+    "Unknown": "",
+    "Details on": "chase 0307, venmo to junseob",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "3:01",
+    "Type": "P",
+    "Amount": 2,
+    "Note": "food, midnight seafood pancake",
+    "Unknown": "",
+    "Details on": "chase 0307, venmo to junseob",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "3:42",
+    "Type": "P",
+    "Amount": -8.32,
+    "Note": "taxi",
+    "Unknown": "",
+    "Details on": "venmo from gene 0306",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "15:18",
+    "Type": "P",
+    "Amount": 6.5,
+    "Note": "activity, nails tip",
+    "Unknown": "",
+    "Details on": "chase 0307, venmo 0306",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 36.58,
+    "Note": "activity, nail polish",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 11.75,
+    "Note": "lunch, pelicana",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 9.17,
+    "Note": "snack, tea and onigiri",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 12.73,
+    "Note": "snack, (breads, $6 drink for me) bake culture ny",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 26.42,
+    "Note": "dinner pasta, tst galli",
+    "Unknown": "",
+    "Details on": "discover 0307",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 33.4,
+    "Note": "dinner, joes' shanghai (total 35.4, helen paid 2)",
+    "Unknown": "",
+    "Details on": "cash",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 22,
+    "Note": "jewelry, necklace for helen",
+    "Unknown": "",
+    "Details on": "cash",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": -20,
+    "Note": "jewelry, from helen",
+    "Unknown": "",
+    "Details on": "cash from helen",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": -10,
+    "Note": "jewelry, zelle from helen, first part of necklace",
+    "Unknown": "",
+    "Details on": "chase 0306",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 28.93,
+    "Note": "taxi",
+    "Unknown": "",
+    "Details on": "chase 0306",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 4.33,
+    "Note": "taxi",
+    "Unknown": "",
+    "Details on": "chase 0306",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/7/2023",
+    "Time": "0:31",
+    "Type": "P",
+    "Amount": -8.32,
+    "Note": "taxi",
+    "Unknown": "",
+    "Details on": "venmo from nate 0307",
+    "Edited": ""
+  },
+  {
+    "Date": "3/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.86,
+    "Note": "breakfast, muffin",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/8/2023",
+    "Time": "14:00",
+    "Type": "P",
+    "Amount": 17.79,
+    "Note": "food, doordash",
+    "Unknown": "",
+    "Details on": "chase 0309, venmo 0308",
+    "Edited": ""
+  },
+  {
+    "Date": "3/8/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/9/2023",
+    "Time": "18:00",
+    "Type": "P",
+    "Amount": 13.95,
+    "Note": "dinner",
+    "Unknown": "",
+    "Details on": "cash",
+    "Edited": ""
+  },
+  {
+    "Date": "3/9/2023",
+    "Time": "18:08",
+    "Type": "P",
+    "Amount": -5.5,
+    "Note": "food wonton, venmo from catherine",
+    "Unknown": "",
+    "Details on": "venmo 0309",
+    "Edited": ""
+  },
+  {
+    "Date": "3/9/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 8.31,
+    "Note": "food, milk + granola bars",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/11/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 6.18,
+    "Note": "food, pizza",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/11/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/11/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/12/2023",
+    "Time": "13:40",
+    "Type": "P",
+    "Amount": 16.22,
+    "Note": "lunch, sgd beef bulgogi bowl",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/13/2023",
+    "Time": "6:17",
+    "Type": "P",
+    "Amount": 17.79,
+    "Note": "food, doordash",
+    "Unknown": "",
+    "Details on": "chase 0314, venmo 0313",
+    "Edited": ""
+  },
+  {
+    "Date": "3/13/2023",
+    "Time": "20:46",
+    "Type": "P",
+    "Amount": 16.72,
+    "Note": "dinner, bacon burger, lil fries",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/13/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.6,
+    "Note": "food, milk???????????",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/13/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/13/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/13/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.25,
+    "Note": "bus to nj",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/14/2023",
+    "Time": "10:34",
+    "Type": "P",
+    "Amount": 5.76,
+    "Note": "breakfast, mcmuffin and hash browns",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/14/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 9.99,
+    "Note": "food, doordash",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/15/2023",
+    "Time": "6:35",
+    "Type": "P",
+    "Amount": 17.24,
+    "Note": "food, doordash",
+    "Unknown": "",
+    "Details on": "chase 0316, venmo 0315",
+    "Edited": ""
+  },
+  {
+    "Date": "3/15/2023",
+    "Time": "16:06",
+    "Type": "P",
+    "Amount": 21,
+    "Note": "food, venmo to rebekah",
+    "Unknown": "",
+    "Details on": "chase 0316, venmo 0315",
+    "Edited": ""
+  },
+  {
+    "Date": "3/15/2023",
+    "Time": "17:09",
+    "Type": "P",
+    "Amount": -10.7,
+    "Note": "activity, ny stuff, venmo from helen",
+    "Unknown": "",
+    "Details on": "venmo 0315",
+    "Edited": ""
+  },
+  {
+    "Date": "3/15/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 8.71,
+    "Note": "food, ice cream",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/16/2023",
+    "Time": "17:31",
+    "Type": "P",
+    "Amount": 12.74,
+    "Note": "drink, tea (prince tea house sub 10.8)",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/16/2023",
+    "Time": "20:03",
+    "Type": "P",
+    "Amount": -8,
+    "Note": "food fries, venmo from catherine",
+    "Unknown": "",
+    "Details on": "venmo 0316",
+    "Edited": ""
+  },
+  {
+    "Date": "3/16/2023",
+    "Time": "21:31",
+    "Type": "P",
+    "Amount": -5,
+    "Note": "food tea, venmo from catherine",
+    "Unknown": "",
+    "Details on": "venmo 0316",
+    "Edited": ""
+  },
+  {
+    "Date": "3/16/2023",
+    "Time": "21:32",
+    "Type": "P",
+    "Amount": -1,
+    "Note": "food, venmo from catherine",
+    "Unknown": "",
+    "Details on": "venmo 0316",
+    "Edited": ""
+  },
+  {
+    "Date": "3/16/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 25.04,
+    "Note": "dinner, spanish",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/17/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 6.23,
+    "Note": "breakfast at deli",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/17/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/18/2023",
+    "Time": "12:05",
+    "Type": "P",
+    "Amount": 12.47,
+    "Note": "lunch, 8 nuggets, fries, sprite",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/18/2023",
+    "Time": "18:48",
+    "Type": "P",
+    "Amount": 20,
+    "Note": "dinner, shanghai stuff, venmo to teagan",
+    "Unknown": "",
+    "Details on": "chase 0320, venmo 0318",
+    "Edited": ""
+  },
+  {
+    "Date": "3/18/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/18/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/18/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/18/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/19/2023",
+    "Time": "14:01",
+    "Type": "P",
+    "Amount": 81.8,
+    "Note": "taxi, lyft",
+    "Unknown": "",
+    "Details on": "chase 0320, venmo 0319",
+    "Edited": ""
+  },
+  {
+    "Date": "3/19/2023",
+    "Time": "19:13",
+    "Type": "P",
+    "Amount": 7,
+    "Note": "drink smoothie, venmo to enoch",
+    "Unknown": "",
+    "Details on": "chase 0320, venmo 0319",
+    "Edited": ""
+  },
+  {
+    "Date": "3/19/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 14.86,
+    "Note": "lunch/dinner, tacos",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/19/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/20/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 12.73,
+    "Note": "lunch, pelicana",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/21/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 9.25,
+    "Note": "breakfast, pret a manger",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/22/2023",
+    "Time": "11:40",
+    "Type": "P",
+    "Amount": 7.06,
+    "Note": "lunch, 10 nuggets, mcchicken, sprite",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/22/2023",
+    "Time": "16:25",
+    "Type": "P",
+    "Amount": 28,
+    "Note": "toiletries, pharmacy - 6,6,16",
+    "Unknown": "",
+    "Details on": "chase 0322",
+    "Edited": ""
+  },
+  {
+    "Date": "3/22/2023",
+    "Time": "20:09",
+    "Type": "P",
+    "Amount": 0,
+    "Note": "drink, starbucks refund",
+    "Unknown": "",
+    "Details on": "",
+    "Edited": ""
+  },
+  {
+    "Date": "3/22/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/22/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/23/2023",
+    "Time": "17:28",
+    "Type": "P",
+    "Amount": 39.99,
+    "Note": "white shirt, mango",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/23/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 11.97,
+    "Note": "food, fafu traditional chinese",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/24/2023",
+    "Time": "12:30",
+    "Type": "P",
+    "Amount": 15.66,
+    "Note": "lunch, lil cheeseburger and lil fries",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/25/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 10,
+    "Note": "laundry",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/25/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/25/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/25/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/25/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/26/2023",
+    "Time": "11:32",
+    "Type": "P",
+    "Amount": 4.34,
+    "Note": "lunch, 3.99 bundle, 6 nuggets, s fries",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/26/2023",
+    "Time": "14:58",
+    "Type": "P",
+    "Amount": 18,
+    "Note": "lunch chicken tikka missala, venmo to steven",
+    "Unknown": "",
+    "Details on": "chase 0327, venmo 0326",
+    "Edited": ""
+  },
+  {
+    "Date": "3/26/2023",
+    "Time": "20:20",
+    "Type": "P",
+    "Amount": 23,
+    "Note": "dinner cafe, venmo to maria",
+    "Unknown": "",
+    "Details on": "chase 0327, venmo 0326",
+    "Edited": ""
+  },
+  {
+    "Date": "3/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 6.53,
+    "Note": "snack, macaron and drink, sip and co",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/27/2023",
+    "Time": "11:14",
+    "Type": "P",
+    "Amount": 6.24,
+    "Note": "lunch, skyline",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/27/2023",
+    "Time": "19:54",
+    "Type": "P",
+    "Amount": 17,
+    "Note": "dinner pho, venmo to junseob",
+    "Unknown": "",
+    "Details on": "chase 0328, venmo 0327",
+    "Edited": ""
+  },
+  {
+    "Date": "3/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 7.51,
+    "Note": "snack, ice cream, van leeuwen",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 29.72,
+    "Note": "toiletries, amazon foot file callus remove, honey ointment",
+    "Unknown": "someone used my card on janet's amazon account",
+    "Details on": "discover - someone used my card on janet's amazon",
+    "Edited": ""
+  },
+  {
+    "Date": "3/28/2023",
+    "Time": "9:36",
+    "Type": "P",
+    "Amount": 3.26,
+    "Note": "breakfast, $3 bundle",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/28/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 11.75,
+    "Note": "lunch, pelicana",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/28/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 55,
+    "Note": "cap and gown, souvenir",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/29/2023",
+    "Time": "22:10",
+    "Type": "P",
+    "Amount": 18.94,
+    "Note": "dinner, nachos, doordash",
+    "Unknown": "",
+    "Details on": "chase 0331, venmo 0330 1030",
+    "Edited": ""
+  },
+  {
+    "Date": "3/29/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 84.44,
+    "Note": "maisie peters tickets",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/29/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 5.44,
+    "Note": "food, mcdonalds",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/29/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/30/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 20.7,
+    "Note": "toiletries, amazon sugaring paste",
+    "Unknown": "someone used my card on janet's amazon account",
+    "Details on": "discover - someone used my card on janet's amazon",
+    "Edited": ""
+  },
+  {
+    "Date": "3/30/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/31/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/31/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "3/31/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/1/2023",
+    "Time": "12:19",
+    "Type": "P",
+    "Amount": 5,
+    "Note": "taxi, venmo to junseob",
+    "Unknown": "",
+    "Details on": "venmo 0401 chase 0403",
+    "Edited": ""
+  },
+  {
+    "Date": "4/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/2/2023",
+    "Time": "13:27",
+    "Type": "P",
+    "Amount": 16.22,
+    "Note": "lunch, sgd beef bulgogi bowl",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/2/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/3/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.5,
+    "Note": "cmsvend cv farmingdale????????????????",
+    "Unknown": "???",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/3/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 13.96,
+    "Note": "toiletries, toothpaste and pads",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/3/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/4/2023",
+    "Time": "7:07",
+    "Type": "P",
+    "Amount": 18.59,
+    "Note": "food, doordash",
+    "Unknown": "",
+    "Details on": "venmo 0404 chase 0405",
+    "Edited": ""
+  },
+  {
+    "Date": "4/4/2023",
+    "Time": "18:44",
+    "Type": "P",
+    "Amount": 16,
+    "Note": "dinner katsu, venmo to rebekah",
+    "Unknown": "",
+    "Details on": "venmo 0404 chase 0405",
+    "Edited": ""
+  },
+  {
+    "Date": "4/4/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 7.51,
+    "Note": "snack, ice cream van leeuwen",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/5/2023",
+    "Time": "19:54",
+    "Type": "P",
+    "Amount": 21.21,
+    "Note": "dinner, sesame chicken, 17.41",
+    "Unknown": "",
+    "Details on": "venmo 0406 0755 chase 0407",
+    "Edited": ""
+  },
+  {
+    "Date": "4/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 3,
+    "Note": "taxi uber tip",
+    "Unknown": "",
+    "Details on": "chase 0405",
+    "Edited": ""
+  },
+  {
+    "Date": "4/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 15.32,
+    "Note": "taxi uber",
+    "Unknown": "",
+    "Details on": "chase 0405",
+    "Edited": ""
+  },
+  {
+    "Date": "4/6/2023",
+    "Time": "21:26",
+    "Type": "P",
+    "Amount": 16.09,
+    "Note": "dinner, deluxe mccrispy meal and oreo mcflurry",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/6/2023",
+    "Time": "21:30",
+    "Type": "P",
+    "Amount": -4.5,
+    "Note": "venmo from melody",
+    "Unknown": "???",
+    "Details on": "venmo 0406",
+    "Edited": ""
+  },
+  {
+    "Date": "4/9/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 14.28,
+    "Note": "milk?????????????",
+    "Unknown": "???",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 11.75,
+    "Note": "lunch pelicana",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/11/2023",
+    "Time": "13:30",
+    "Type": "P",
+    "Amount": 10.01,
+    "Note": "lunch, lil cheeseburger",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/11/2023",
+    "Time": "18:44",
+    "Type": "P",
+    "Amount": 10.32,
+    "Note": "dinner kdog and fries",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/11/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 8.57,
+    "Note": "drink tea",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/12/2023",
+    "Time": "11:31",
+    "Type": "P",
+    "Amount": 5.98,
+    "Note": "lunch, med fries and 10 nuggets",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/12/2023",
+    "Time": "17:22",
+    "Type": "P",
+    "Amount": 14.4,
+    "Note": "dinner nachos, venmo to catherine",
+    "Unknown": "",
+    "Details on": "venmo 0412 chase 0413",
+    "Edited": ""
+  },
+  {
+    "Date": "4/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 5.99,
+    "Note": "drink teado tea",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/13/2023",
+    "Time": "9:07",
+    "Type": "P",
+    "Amount": 3.26,
+    "Note": "breakfast, $3 bundle",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/14/2023",
+    "Time": "9:46",
+    "Type": "P",
+    "Amount": 4.67,
+    "Note": "dinner, bigmac and smoothie",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/14/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 4.31,
+    "Note": "drink, kungfutea",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/14/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 9.99,
+    "Note": "food, doordash pass",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/14/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/15/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "bus",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/15/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/15/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/16/2023",
+    "Time": "20:16",
+    "Type": "P",
+    "Amount": 20.4,
+    "Note": "lunch thai, venmo to sarah",
+    "Unknown": "",
+    "Details on": "venmo 0416 chase 0417",
+    "Edited": ""
+  },
+  {
+    "Date": "4/16/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/16/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/17/2023",
+    "Time": "8:45",
+    "Type": "P",
+    "Amount": 18.94,
+    "Note": "food, doordash",
+    "Unknown": "",
+    "Details on": "venmo 0417 chase 0418",
+    "Edited": ""
+  },
+  {
+    "Date": "4/17/2023",
+    "Time": "15:28",
+    "Type": "P",
+    "Amount": 9.31,
+    "Note": "lunch, skyline",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/17/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 25,
+    "Note": "drink, starbucks reload",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/18/2023",
+    "Time": "10:06",
+    "Type": "P",
+    "Amount": 3.26,
+    "Note": "breakfast, $3 bundle",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/18/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 90,
+    "Note": "formal tickets",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/18/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/19/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 6.18,
+    "Note": "dinner, champion pizza",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/19/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 11.75,
+    "Note": "lunch pelicana",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/19/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 28,
+    "Note": "dinner and snack, chinese and mango mango, zelle to karina",
+    "Unknown": "",
+    "Details on": "chase 0419",
+    "Edited": ""
+  },
+  {
+    "Date": "4/20/2023",
+    "Time": "10:50",
+    "Type": "P",
+    "Amount": 3.26,
+    "Note": "breakfast, $3 bundle",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/20/2023",
+    "Time": "22:14",
+    "Type": "P",
+    "Amount": 51.71,
+    "Note": "dinner, tortaria",
+    "Unknown": "",
+    "Details on": "discover 0421",
+    "Edited": ""
+  },
+  {
+    "Date": "4/20/2023",
+    "Time": "22:39",
+    "Type": "P",
+    "Amount": -21.25,
+    "Note": "dinner tortaria, venmo from teagan",
+    "Unknown": "",
+    "Details on": "venmo 0420",
+    "Edited": ""
+  },
+  {
+    "Date": "4/20/2023",
+    "Time": "22:39",
+    "Type": "P",
+    "Amount": -16.49,
+    "Note": "dinner tortaria, venmo from joy",
+    "Unknown": "",
+    "Details on": "venmo 0420",
+    "Edited": ""
+  },
+  {
+    "Date": "4/20/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 3.26,
+    "Note": "food, mcd",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/20/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/21/2023",
+    "Time": "17:17",
+    "Type": "P",
+    "Amount": 15.66,
+    "Note": "dinner, lil cheeseburger and lil fries",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/21/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/21/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/23/2023",
+    "Time": "13:41",
+    "Type": "P",
+    "Amount": 5.97,
+    "Note": "lunch, 3.99 bundle + sprite",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/23/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/23/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/24/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 9.83,
+    "Note": "food, skyline gourmet",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/24/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.6,
+    "Note": "taasha deli",
+    "Unknown": "???",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/25/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/26/2023",
+    "Time": "20:30",
+    "Type": "P",
+    "Amount": 8.73,
+    "Note": "dinner, harvest bowl",
+    "Unknown": "",
+    "Details on": "discover 0427",
+    "Edited": ""
+  },
+  {
+    "Date": "4/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.5,
+    "Note": "cmsvend*cv farmingdale amityville ny",
+    "Unknown": "???",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 14.1,
+    "Note": "food, chinah",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/28/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 15.44,
+    "Note": "food, mcd",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/28/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/28/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/29/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 50,
+    "Note": "dinner, hotpot",
+    "Unknown": "",
+    "Details on": "chase 0501, venmo to declan",
+    "Edited": ""
+  },
+  {
+    "Date": "4/29/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 12.45,
+    "Note": "taasha deli",
+    "Unknown": "???",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/29/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/29/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/29/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/29/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/30/2023",
+    "Time": "13:29",
+    "Type": "P",
+    "Amount": 4.34,
+    "Note": "food, 3.99 bundle",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/30/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "4/30/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 30,
+    "Note": "movie and snacks",
+    "Unknown": "???",
+    "Details on": "chase 0501, zelle to madi",
+    "Edited": ""
+  },
+  {
+    "Date": "5/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 8.39,
+    "Note": "drink, wanpo tea",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 11.75,
+    "Note": "lunch, pelicana",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 5,
+    "Note": "taxi, rnc to pier, venmo to sarah",
+    "Unknown": "",
+    "Details on": "chase 0502, venmo, 0501",
+    "Edited": ""
+  },
+  {
+    "Date": "5/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 6.17,
+    "Note": "taxi, pier to dorm, venmo to van",
+    "Unknown": "",
+    "Details on": "chase 0502, venmo 0501",
+    "Edited": ""
+  },
+  {
+    "Date": "5/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 19.34,
+    "Note": "taxi lyft",
+    "Unknown": "",
+    "Details on": "chase 0502, venmo 0501",
+    "Edited": ""
+  },
+  {
+    "Date": "5/2/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/4/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 4.34,
+    "Note": "food, mcd",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/4/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 7.83,
+    "Note": "drink, lazy sundaes",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/4/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 24.2,
+    "Note": "food, doordash",
+    "Unknown": "",
+    "Details on": "chase 0505, venmo 0504",
+    "Edited": ""
+  },
+  {
+    "Date": "5/4/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 6.18,
+    "Note": "dinner, champion pizza",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 1.56,
+    "Note": "taasha deli",
+    "Unknown": "???",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 28.8,
+    "Note": "dinner, el gallo taqueria",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 16.34,
+    "Note": "venmo to hans, birthday dinner for julie",
+    "Unknown": "",
+    "Details on": "chase 0508, venmo 0507",
+    "Edited": ""
+  },
+  {
+    "Date": "5/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 29.75,
+    "Note": "venmo to catherine, experiments????",
+    "Unknown": "????",
+    "Details on": "chase 0508, venmo 0507",
+    "Edited": ""
+  },
+  {
+    "Date": "5/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/8/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 11.75,
+    "Note": "lunch, pelicana",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 15.98,
+    "Note": "food, 5 guys",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/11/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 4.63,
+    "Note": "snack, sugar hill creamery",
+    "Unknown": "",
+    "Details on": "chase 0511",
+    "Edited": ""
+  },
+  {
+    "Date": "5/11/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 4.9,
+    "Note": "food, joe coffee",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/11/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 15.95,
+    "Note": "dinner probably",
+    "Unknown": "???",
+    "Details on": "chase 0511, zelle to josh",
+    "Edited": ""
+  },
+  {
+    "Date": "5/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 3.26,
+    "Note": "food, mcd",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/14/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 9.99,
+    "Note": "food, doordash",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/14/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 13.99,
+    "Note": "food, chipotle",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/14/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 18.94,
+    "Note": "food, doordash",
+    "Unknown": "",
+    "Details on": "chase 0515, venmo 0514",
+    "Edited": ""
+  },
+  {
+    "Date": "5/14/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/15/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 17.79,
+    "Note": "food, doordash",
+    "Unknown": "",
+    "Details on": "chase 0516, venmo 0515",
+    "Edited": ""
+  },
+  {
+    "Date": "5/15/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 43.5,
+    "Note": "dinner kbbq, venmo to joy",
+    "Unknown": "",
+    "Details on": "chase 0516, venmo 0515",
+    "Edited": ""
+  },
+  {
+    "Date": "5/15/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/15/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/15/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/16/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 8.7,
+    "Note": "food, neat burger",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/16/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 17.42,
+    "Note": "sq * paradis in the par ny",
+    "Unknown": "???",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/16/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/16/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/17/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": -8.16,
+    "Note": "food, yankee stadium concessions, venmo from janice",
+    "Unknown": "",
+    "Details on": "venmo 0517",
+    "Edited": ""
+  },
+  {
+    "Date": "5/17/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 6,
+    "Note": "breakfast, los tacos",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/17/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 16.32,
+    "Note": "food, yankee stadium concessions",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/17/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/17/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.75,
+    "Note": "metro",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/23/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 7,
+    "Note": "codefinity course",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/24/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 17.4,
+    "Note": "cvs",
+    "Unknown": "???",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/25/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 0,
+    "Note": "(+425USD, transferred rmb)",
+    "Unknown": "",
+    "Details on": "chase 0525, zelle from cindy",
+    "Edited": ""
+  },
+  {
+    "Date": "5/27/2023",
+    "Time": "14:48",
+    "Type": "P",
+    "Amount": 63.87,
+    "Note": "blue romper (dress, urban outfitters)",
+    "Unknown": "",
+    "Details on": "Discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/28/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 8.91,
+    "Note": "groceries, heb",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "5/30/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 12.99,
+    "Note": "drink, kft",
+    "Unknown": "",
+    "Details on": "chase 0530",
+    "Edited": ""
+  },
+  {
+    "Date": "6/1/2023",
+    "Time": "19:21",
+    "Type": "P",
+    "Amount": 0,
+    "Note": "nordstrom rack - shirtsetc, returned",
+    "Unknown": "",
+    "Details on": "Discover",
+    "Edited": ""
+  },
+  {
+    "Date": "6/1/2023",
+    "Time": "19:29",
+    "Type": "P",
+    "Amount": 0,
+    "Note": "marshalls - shirtsetc, returned",
+    "Unknown": "",
+    "Details on": "Discover",
+    "Edited": ""
+  },
+  {
+    "Date": "6/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 68.17,
+    "Note": "marshalls clothes, shirt",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "6/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 72.46,
+    "Note": "nordstrom clothes, dress",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "6/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 30.49,
+    "Note": "gas, costco",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "6/3/2023",
+    "Time": "13:31",
+    "Type": "P",
+    "Amount": 14,
+    "Note": "eden ice skating ticket",
+    "Unknown": "",
+    "Details on": "Chase 0605",
+    "Edited": ""
+  },
+  {
+    "Date": "6/4/2023",
+    "Time": "11:50",
+    "Type": "P",
+    "Amount": 15.57,
+    "Note": "lunch, jack in the box",
+    "Unknown": "",
+    "Details on": "chase 0605",
+    "Edited": ""
+  },
+  {
+    "Date": "6/4/2023",
+    "Time": "17:07",
+    "Type": "P",
+    "Amount": 11.8,
+    "Note": "dinner, panda express",
+    "Unknown": "",
+    "Details on": "Chase 0605",
+    "Edited": ""
+  },
+  {
+    "Date": "6/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 6.57,
+    "Note": "drink, moge tea",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "6/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 14.05,
+    "Note": "heb groceries prob",
+    "Unknown": "???",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "6/8/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 40,
+    "Note": "doctor",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "6/9/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 11.2,
+    "Note": "dinner, torchys",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "6/9/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 34.63,
+    "Note": "dinner, jupiter (me and eden)",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "6/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 107.09,
+    "Note": "taxi lyft",
+    "Unknown": "",
+    "Details on": "chase 0612, venmo 0610",
+    "Edited": ""
+  },
+  {
+    "Date": "6/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 13.7,
+    "Note": "beach in new jersey ticket",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "6/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 10.12,
+    "Note": "food, chick fil a",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "6/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 500,
+    "Note": "rent deposit",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "6/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 31.77,
+    "Note": "airport parking (car)",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "6/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 83.65,
+    "Note": "taxi lyft",
+    "Unknown": "",
+    "Details on": "chase 0613, venmo 0612",
+    "Edited": ""
+  },
+  {
+    "Date": "6/13/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 42.59,
+    "Note": "taxi to work",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "6/14/2023",
+    "Time": "13:03",
+    "Type": "P",
+    "Amount": 17.18,
+    "Note": "hawaii lunch, alohatable mochiko fried chicken, 14.66 + tip",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "6/16/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 8.38,
+    "Note": "hawaii souvenirs",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "6/20/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 74.2,
+    "Note": "gas, texaco in hawaii",
+    "Unknown": "someone prob used my card",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "6/22/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 12,
+    "Note": "monthly service fee",
+    "Unknown": "???? never paid before",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "6/23/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 14,
+    "Note": "cvs",
+    "Unknown": "???",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "6/24/2023",
+    "Time": "11:35",
+    "Type": "P",
+    "Amount": 24,
+    "Note": "gas, shell",
+    "Unknown": "",
+    "Details on": "cash",
+    "Edited": ""
+  },
+  {
+    "Date": "6/24/2023",
+    "Time": "18:58",
+    "Type": "P",
+    "Amount": 75.68,
+    "Note": "home goods, janet (sheets, fry pan, knife, hairties), 3 bulletin boards, wine rack, bath rack",
+    "Unknown": "",
+    "Details on": "cash",
+    "Edited": ""
+  },
+  {
+    "Date": "6/25/2023",
+    "Time": "14:35",
+    "Type": "P",
+    "Amount": 21.22,
+    "Note": "groceries - eggs, bok choy, grapes, blueberries, sausages",
+    "Unknown": "",
+    "Details on": "cash",
+    "Edited": ""
+  },
+  {
+    "Date": "6/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 30,
+    "Note": "ephesians bible study + dinner",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "6/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 12.98,
+    "Note": "lunch, thai food sabaidee lao",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "6/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 13.48,
+    "Note": "dinner, sweetgreen",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "6/27/2023",
+    "Time": "",
+    "Type": "R",
+    "Amount": 1364.14,
+    "Note": "ltimindtree",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "6/28/2023",
+    "Time": "19:21",
+    "Type": "P",
+    "Amount": 33.36,
+    "Note": "costco gas",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "6/28/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 77.44,
+    "Note": "spectrum - internet",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "6/29/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 5.62,
+    "Note": "dessert, andys concrete",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "6/30/2023",
+    "Time": "18:38",
+    "Type": "P",
+    "Amount": 8.39,
+    "Note": "dinner, in n out (burger combo - not gud fries)",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "6/30/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 25.49,
+    "Note": "dinner, lazy dog",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "7/4/2023",
+    "Time": "16:10",
+    "Type": "P",
+    "Amount": 11.23,
+    "Note": "lunch/dinner, jack in the box sandwich combo",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 13.48,
+    "Note": "lunch, sweetgreen",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 615,
+    "Note": "rent",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "7/6/2023",
+    "Time": "12:57",
+    "Type": "P",
+    "Amount": 11.03,
+    "Note": "lunch mod pizza",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/7/2023",
+    "Time": "19:19",
+    "Type": "P",
+    "Amount": 8.12,
+    "Note": "drink, gong cha",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 20.8,
+    "Note": "dinner nachos gabriela and sofia",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 73.97,
+    "Note": "bus ticket",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/8/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 4.87,
+    "Note": "farmers market drink",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/8/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 10,
+    "Note": "food, potatoes and green beans",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/8/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 16,
+    "Note": "food, borscht",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/8/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 12.02,
+    "Note": "food, hot dog",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/8/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 5,
+    "Note": "donation - stranger at gas station",
+    "Unknown": "",
+    "Details on": "cash",
+    "Edited": ""
+  },
+  {
+    "Date": "7/8/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 31.32,
+    "Note": "gas, 7/11",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/9/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 22.39,
+    "Note": "lunch, sofra kebab",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/9/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 68.21,
+    "Note": "tithe to remnant",
+    "Unknown": "",
+    "Details on": "chase 0711",
+    "Edited": ""
+  },
+  {
+    "Date": "7/9/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 68.21,
+    "Note": "tithe to whcc",
+    "Unknown": "",
+    "Details on": "chase 0725",
+    "Edited": ""
+  },
+  {
+    "Date": "7/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 5.03,
+    "Note": "spectrum internet",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "7/11/2023",
+    "Time": "18:40",
+    "Type": "P",
+    "Amount": 13.96,
+    "Note": "dinner, marugame",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/11/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 25,
+    "Note": "drink, starbucks recharge",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/11/2023",
+    "Time": "",
+    "Type": "R",
+    "Amount": 1816.7,
+    "Note": "ltimindtree",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "7/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 13.48,
+    "Note": "food, sweetgreen",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 23.08,
+    "Note": "uber taxi to bus",
+    "Unknown": "",
+    "Details on": "chase 0713",
+    "Edited": ""
+  },
+  {
+    "Date": "7/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 3.74,
+    "Note": "uber taxi to bus",
+    "Unknown": "",
+    "Details on": "chase 0713",
+    "Edited": ""
+  },
+  {
+    "Date": "7/13/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 6.44,
+    "Note": "drink, sharetea",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/13/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 75.76,
+    "Note": "swimsuit (clothes) for eden",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/14/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 15,
+    "Note": "bus ticket",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/16/2023",
+    "Time": "12:37",
+    "Type": "P",
+    "Amount": 16.76,
+    "Note": "lunch, jack in the box",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/16/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 29.56,
+    "Note": "honey art cafe activity",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/16/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 22.04,
+    "Note": "uber taxi from bus",
+    "Unknown": "",
+    "Details on": "chase 0718",
+    "Edited": ""
+  },
+  {
+    "Date": "7/16/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 3,
+    "Note": "uber taxi from bus",
+    "Unknown": "",
+    "Details on": "chase 0718",
+    "Edited": ""
+  },
+  {
+    "Date": "7/19/2023",
+    "Time": "8:35",
+    "Type": "P",
+    "Amount": 0,
+    "Note": "breakfast, starbucks",
+    "Unknown": "",
+    "Details on": "none",
+    "Edited": ""
+  },
+  {
+    "Date": "7/19/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 13.48,
+    "Note": "lunch, sweetgreen",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/22/2023",
+    "Time": "14:40",
+    "Type": "P",
+    "Amount": 13.48,
+    "Note": "lunch, sweetgreen",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/22/2023",
+    "Time": "16:47",
+    "Type": "P",
+    "Amount": 38.94,
+    "Note": "hmart groceries - ice cream, milk, juicee, honey, ketchup, boba",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/22/2023",
+    "Time": "16:53",
+    "Type": "P",
+    "Amount": 7.52,
+    "Note": "drink, sharetea",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/22/2023",
+    "Time": "21:18",
+    "Type": "P",
+    "Amount": 14.06,
+    "Note": "toiletries, 32 pimple patches (target)",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/22/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 30.84,
+    "Note": "reliant electricity",
+    "Unknown": "",
+    "Details on": "chase 0725",
+    "Edited": ""
+  },
+  {
+    "Date": "7/23/2023",
+    "Time": "13:43",
+    "Type": "P",
+    "Amount": 19.3,
+    "Note": "lunch, abe japanese",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/24/2023",
+    "Time": "16:40",
+    "Type": "P",
+    "Amount": 38.15,
+    "Note": "costco gas",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "7/24/2023",
+    "Time": "17:22",
+    "Type": "P",
+    "Amount": 28.77,
+    "Note": "costco groceries - strabwerries, snacks, soup",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "7/25/2023",
+    "Time": "",
+    "Type": "R",
+    "Amount": 1816.68,
+    "Note": "ltimindtree",
+    "Unknown": "",
+    "Details on": "chase 0725",
+    "Edited": ""
+  },
+  {
+    "Date": "7/26/2023",
+    "Time": "10:42",
+    "Type": "P",
+    "Amount": 1115,
+    "Note": "rent",
+    "Unknown": "",
+    "Details on": "chase 0727",
+    "Edited": ""
+  },
+  {
+    "Date": "7/26/2023",
+    "Time": "11:27",
+    "Type": "P",
+    "Amount": 363.34,
+    "Note": "tithe to TBC",
+    "Unknown": "",
+    "Details on": "chase 0727",
+    "Edited": ""
+  },
+  {
+    "Date": "7/26/2023",
+    "Time": "17:49",
+    "Type": "P",
+    "Amount": 80.95,
+    "Note": "massage, bluebonnet",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 19.49,
+    "Note": "dinner, hopdoddy",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/28/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 13.48,
+    "Note": "lunch, sweetgreen",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/30/2023",
+    "Time": "14:12",
+    "Type": "P",
+    "Amount": 15.14,
+    "Note": "lunch, tori dori combo",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "7/31/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 1.5,
+    "Note": "laundry, 40",
+    "Unknown": "",
+    "Details on": "laundry card",
+    "Edited": ""
+  },
+  {
+    "Date": "8/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 25.49,
+    "Note": "dinner, lazy dog",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/2/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 6.38,
+    "Note": "dessert, andys",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/3/2023",
+    "Time": "18:11",
+    "Type": "P",
+    "Amount": 16.12,
+    "Note": "dinner, pho pasteur 14.02+tip",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/3/2023",
+    "Time": "20:07",
+    "Type": "P",
+    "Amount": 21.79,
+    "Note": "gas, costco 3.449",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "8/3/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 125,
+    "Note": "car roadside assistance, tire change",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/3/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 943.17,
+    "Note": "car tires",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/4/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 15.75,
+    "Note": "target toiletries, broccoli bites + pimple patches",
+    "Unknown": "",
+    "Details on": "chase 0807",
+    "Edited": ""
+  },
+  {
+    "Date": "8/5/2023",
+    "Time": "16:13",
+    "Type": "P",
+    "Amount": 38.29,
+    "Note": "groceries tj, milk, cereal, hashbrowns, frozen fruits x3, chicken, cheese, eggs, bell peppers, tomatoes, lettuce",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/8/2023",
+    "Time": "20:18",
+    "Type": "P",
+    "Amount": 10.23,
+    "Note": "dinner, sweetgreen",
+    "Unknown": "",
+    "Details on": "discover 0809",
+    "Edited": ""
+  },
+  {
+    "Date": "8/8/2023",
+    "Time": "",
+    "Type": "R",
+    "Amount": 1816.67,
+    "Note": "ltimindtree, (+reloc of 1825.13, not counting that as income)",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "8/9/2023",
+    "Time": "13:35",
+    "Type": "P",
+    "Amount": 11.26,
+    "Note": "lunch, chipotle",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/9/2023",
+    "Time": "19:23",
+    "Type": "P",
+    "Amount": 34.75,
+    "Note": "gas, costco 3.279",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "8/11/2023",
+    "Time": "7:00",
+    "Type": "P",
+    "Amount": 1.5,
+    "Note": "laundry, 38.5",
+    "Unknown": "",
+    "Details on": "laundry card",
+    "Edited": ""
+  },
+  {
+    "Date": "8/11/2023",
+    "Time": "11:27",
+    "Type": "P",
+    "Amount": 181.7,
+    "Note": "tithe",
+    "Unknown": "",
+    "Details on": "chase 0814",
+    "Edited": ""
+  },
+  {
+    "Date": "8/12/2023",
+    "Time": "22:51",
+    "Type": "P",
+    "Amount": 44.46,
+    "Note": "walmart home goods, caulk+gun, bandaids, chargers, razor",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/13/2023",
+    "Time": "14:54",
+    "Type": "P",
+    "Amount": 3.85,
+    "Note": "dessert, ice cream, beth marie",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/13/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 17,
+    "Note": "lunch, cane rosso",
+    "Unknown": "",
+    "Details on": "chase 0814, venmo 0813",
+    "Edited": ""
+  },
+  {
+    "Date": "8/14/2023",
+    "Time": "17:39",
+    "Type": "P",
+    "Amount": 5.06,
+    "Note": "drink, tom n toms, 4.6 + tax",
+    "Unknown": "",
+    "Details on": "chase 0815",
+    "Edited": ""
+  },
+  {
+    "Date": "8/15/2023",
+    "Time": "13:54",
+    "Type": "P",
+    "Amount": 18.66,
+    "Note": "lunch, hmart katsu",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/15/2023",
+    "Time": "14:55",
+    "Type": "P",
+    "Amount": 50.04,
+    "Note": "groceries hmart, dumplings, rice balls, eggs, potatoes, pork, turnip greens, grapes, juice, broccoli",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/15/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 3,
+    "Note": "dfw airport parking",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/16/2023",
+    "Time": "18:56",
+    "Type": "P",
+    "Amount": 14.88,
+    "Note": "dinner, coco shrimp",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/16/2023",
+    "Time": "20:16",
+    "Type": "P",
+    "Amount": 14.79,
+    "Note": "gas, quiktrip, 3.599",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "8/17/2023",
+    "Time": "1:16",
+    "Type": "P",
+    "Amount": 10.22,
+    "Note": "gas, chevron, 3.599",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "8/18/2023",
+    "Time": "8:31",
+    "Type": "P",
+    "Amount": -20,
+    "Note": "gas, grace",
+    "Unknown": "",
+    "Details on": "venmo",
+    "Edited": ""
+  },
+  {
+    "Date": "8/18/2023",
+    "Time": "19:03",
+    "Type": "P",
+    "Amount": 36.74,
+    "Note": "gas, costco, 3.279",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "8/19/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 30.32,
+    "Note": "activity, climbing",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/19/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 20.27,
+    "Note": "dinner, no 1 plus chicken, 3$ tip",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/20/2023",
+    "Time": "13:52",
+    "Type": "P",
+    "Amount": 15.7,
+    "Note": "lunch, abe japanese",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/20/2023",
+    "Time": "16:38",
+    "Type": "P",
+    "Amount": 63.97,
+    "Note": "bus dtx <-> htx",
+    "Unknown": "",
+    "Details on": "discover 0821",
+    "Edited": ""
+  },
+  {
+    "Date": "8/21/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 55.28,
+    "Note": "spectrum",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "8/22/2023",
+    "Time": "12:15",
+    "Type": "P",
+    "Amount": 44.46,
+    "Note": "reliant",
+    "Unknown": "",
+    "Details on": "chase 0823",
+    "Edited": ""
+  },
+  {
+    "Date": "8/22/2023",
+    "Time": "12:42",
+    "Type": "P",
+    "Amount": 13.48,
+    "Note": "lunch, sweetgreen",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/22/2023",
+    "Time": "20:52",
+    "Type": "P",
+    "Amount": 7.13,
+    "Note": "dinner, mcdonalds 20 nuggets + 2 large fries",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/22/2023",
+    "Time": "",
+    "Type": "R",
+    "Amount": 1816.68,
+    "Note": "ltimindtree",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "8/23/2023",
+    "Time": "16:29",
+    "Type": "P",
+    "Amount": 60.58,
+    "Note": "barbie movie tickets",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "8/23/2023",
+    "Time": "16:35",
+    "Type": "P",
+    "Amount": -15.15,
+    "Note": "barbie movie tickets, minh",
+    "Unknown": "",
+    "Details on": "venmo",
+    "Edited": ""
+  },
+  {
+    "Date": "8/23/2023",
+    "Time": "16:37",
+    "Type": "P",
+    "Amount": -15.15,
+    "Note": "barbie movie tickets, ana zelle",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "8/23/2023",
+    "Time": "16:49",
+    "Type": "P",
+    "Amount": -15.15,
+    "Note": "barbie movie tickets, shusma zelle",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "8/24/2023",
+    "Time": "15:21",
+    "Type": "P",
+    "Amount": 181.67,
+    "Note": "tithe",
+    "Unknown": "",
+    "Details on": "chase 0825",
+    "Edited": ""
+  },
+  {
+    "Date": "8/24/2023",
+    "Time": "19:30",
+    "Type": "P",
+    "Amount": 9.15,
+    "Note": "dessert, jeni's ice cream",
+    "Unknown": "",
+    "Details on": "discover 0825",
+    "Edited": ""
+  },
+  {
+    "Date": "8/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 1115,
+    "Note": "rent",
+    "Unknown": "",
+    "Details on": "chase 0829",
+    "Edited": ""
+  },
+  {
+    "Date": "8/29/2023",
+    "Time": "13:42",
+    "Type": "P",
+    "Amount": 27.77,
+    "Note": "lunch, hawkers curry and ribs (23.81 + tip)",
+    "Unknown": "",
+    "Details on": "discover 0830",
+    "Edited": ""
+  },
+  {
+    "Date": "8/29/2023",
+    "Time": "22:47",
+    "Type": "P",
+    "Amount": 21.35,
+    "Note": "dinner, postino spread",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 28.69,
+    "Note": "uber to bus",
+    "Unknown": "",
+    "Details on": "chase 0905",
+    "Edited": ""
+  },
+  {
+    "Date": "9/2/2023",
+    "Time": "18:42",
+    "Type": "P",
+    "Amount": 12.39,
+    "Note": "2 drinks, sharetea",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/3/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 21.25,
+    "Note": "dinner, venmo to aaron tsui",
+    "Unknown": "",
+    "Details on": "chase 0905",
+    "Edited": ""
+  },
+  {
+    "Date": "9/3/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 13.68,
+    "Note": "2 drinks, teapioca",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/3/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 6.77,
+    "Note": "dessert, ice cream van leeuwen",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/5/2023",
+    "Time": "14:47",
+    "Type": "P",
+    "Amount": 53.2,
+    "Note": "hmart groceries (onions, tomatoes, cabbage, milk, eggs, strawberries, pancakes, dumplings, wontons, oil)",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/5/2023",
+    "Time": "15:22",
+    "Type": "P",
+    "Amount": 39.72,
+    "Note": "costco gas (3.139)",
+    "Unknown": "",
+    "Details on": "chase 0905",
+    "Edited": ""
+  },
+  {
+    "Date": "9/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 25,
+    "Note": "drinks, starbucks reload",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 16.23,
+    "Note": "lunch, okatsu",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 53.17,
+    "Note": "rent fees (admin, trash, water, gas)",
+    "Unknown": "",
+    "Details on": "chase 0905",
+    "Edited": ""
+  },
+  {
+    "Date": "9/5/2023",
+    "Time": "",
+    "Type": "R",
+    "Amount": 1816.67,
+    "Note": "ltimindtree",
+    "Unknown": "",
+    "Details on": "chase",
+    "Edited": ""
+  },
+  {
+    "Date": "9/6/2023",
+    "Time": "17:25",
+    "Type": "P",
+    "Amount": 9.05,
+    "Note": "hobby lobby - decorative mushroom, 2 corner pieces, 8 screws",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/6/2023",
+    "Time": "17:34",
+    "Type": "P",
+    "Amount": 8.07,
+    "Note": "tj groceries - 3 bags frozen fruits",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/6/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 15.1,
+    "Note": "lunch, sweetgreen",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/9/2023",
+    "Time": "20:54",
+    "Type": "P",
+    "Amount": 37.89,
+    "Note": "dessert, whiskey cake (half)",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/10/2023",
+    "Time": "12:27",
+    "Type": "P",
+    "Amount": 181.67,
+    "Note": "tithe, TBC",
+    "Unknown": "",
+    "Details on": "chase 0911",
+    "Edited": ""
+  },
+  {
+    "Date": "9/10/2023",
+    "Time": "13:06",
+    "Type": "P",
+    "Amount": 11.2,
+    "Note": "lunch, paik's noodle, zha jiang mian",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 5.41,
+    "Note": "dinner, taco bell",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/13/2023",
+    "Time": "15:48",
+    "Type": "P",
+    "Amount": 5.29,
+    "Note": "lunch, mcdonalds",
+    "Unknown": "",
+    "Details on": "chase 0915",
+    "Edited": ""
+  },
+  {
+    "Date": "9/15/2023",
+    "Time": "18:58",
+    "Type": "P",
+    "Amount": 21.15,
+    "Note": "dinner, loro, chicken",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/16/2023",
+    "Time": "14:19",
+    "Type": "P",
+    "Amount": 3.82,
+    "Note": "drinks, 99 ranch, 2 things",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/16/2023",
+    "Time": "15:24",
+    "Type": "P",
+    "Amount": 9.47,
+    "Note": "home goods, daiso, small sponge, sponge on handle, small journal, 2 silicone bowl wraps",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/17/2023",
+    "Time": "18:22",
+    "Type": "P",
+    "Amount": 117.39,
+    "Note": "home goods, ikea, lamp, bulbs, 4 shelves",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/17/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 17,
+    "Note": "lunch, pho, zelle to hannah",
+    "Unknown": "",
+    "Details on": "chase 0918",
+    "Edited": ""
+  },
+  {
+    "Date": "9/19/2023",
+    "Time": "15:11",
+    "Type": "P",
+    "Amount": 765.97,
+    "Note": "car wheel cylinders (37.76*2), shoes(64.8), drums(91*2), (+260), brake fluid (6.98+130)",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/19/2023",
+    "Time": "15:27",
+    "Type": "P",
+    "Amount": 11.05,
+    "Note": "lunch, sweetgreen",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/19/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 25,
+    "Note": "dinner, hawkers, zelle to hannah",
+    "Unknown": "",
+    "Details on": "chase 0920",
+    "Edited": ""
+  },
+  {
+    "Date": "9/19/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 1.5,
+    "Note": "laundry",
+    "Unknown": "",
+    "Details on": "laundry card ->37",
+    "Edited": ""
+  },
+  {
+    "Date": "9/19/2023",
+    "Time": "",
+    "Type": "R",
+    "Amount": 1816.67,
+    "Note": "ltimindtree",
+    "Unknown": "",
+    "Details on": "chase 0919",
+    "Edited": ""
+  },
+  {
+    "Date": "9/20/2023",
+    "Time": "9:44",
+    "Type": "P",
+    "Amount": 13.46,
+    "Note": "target groceries milk, broccoli tots, lasagna, spaghetti",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/20/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 11.36,
+    "Note": "lunch, popeyes 3 pc combo",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/20/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 55.28,
+    "Note": "spectrum",
+    "Unknown": "",
+    "Details on": "chase 0920",
+    "Edited": ""
+  },
+  {
+    "Date": "9/22/2023",
+    "Time": "9:51",
+    "Type": "P",
+    "Amount": 3.99,
+    "Note": "breakfast, mcds sandwich and hashbrown",
+    "Unknown": "",
+    "Details on": "chase 0925",
+    "Edited": ""
+  },
+  {
+    "Date": "9/22/2023",
+    "Time": "19:36",
+    "Type": "P",
+    "Amount": 39.55,
+    "Note": "costco gas (3.169)",
+    "Unknown": "",
+    "Details on": "chase 0922",
+    "Edited": ""
+  },
+  {
+    "Date": "9/23/2023",
+    "Time": "17:58",
+    "Type": "P",
+    "Amount": 17.14,
+    "Note": "dinner, tori dori combo, 15.14 + tip",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/23/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 25.05,
+    "Note": "fresh k groceries vegetables, meat, eggs, guotie",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/24/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 0,
+    "Note": "lunch, get to know tbc (+7-7 9/22, 24)",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/25/2023",
+    "Time": "19:39",
+    "Type": "P",
+    "Amount": 181.67,
+    "Note": "tithe, TBC",
+    "Unknown": "",
+    "Details on": "chase 0927",
+    "Edited": ""
+  },
+  {
+    "Date": "9/26/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 9,
+    "Note": "dinner, pizza yardhouse, zelle to hannah",
+    "Unknown": "",
+    "Details on": "chase 0927",
+    "Edited": ""
+  },
+  {
+    "Date": "9/27/2023",
+    "Time": "15:48",
+    "Type": "P",
+    "Amount": 36.13,
+    "Note": "groceries tj - oj, pasta, frozen fruits * 4, orange chicken, lasagna, juice, flowers",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/27/2023",
+    "Time": "18:28",
+    "Type": "P",
+    "Amount": 3.24,
+    "Note": "dinner, mcds, 6 nuggets + cheeseburger",
+    "Unknown": "",
+    "Details on": "chase 0929",
+    "Edited": ""
+  },
+  {
+    "Date": "9/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 10,
+    "Note": "breakfast, starbucks",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "9/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 1115,
+    "Note": "rent",
+    "Unknown": "",
+    "Details on": "chase 0927",
+    "Edited": ""
+  },
+  {
+    "Date": "9/29/2023",
+    "Time": "10:30",
+    "Type": "P",
+    "Amount": 0,
+    "Note": "oracle exam, - discover 1004 + chase 1016",
+    "Unknown": "",
+    "Details on": "",
+    "Edited": ""
+  },
+  {
+    "Date": "9/30/2023",
+    "Time": "14:43",
+    "Type": "P",
+    "Amount": 41.11,
+    "Note": "reliant electricity",
+    "Unknown": "",
+    "Details on": "chase 1003",
+    "Edited": ""
+  },
+  {
+    "Date": "10/2/2023",
+    "Time": "11:36",
+    "Type": "P",
+    "Amount": 72.22,
+    "Note": "rent fees (admin, trash, water, gas)",
+    "Unknown": "",
+    "Details on": "chase 1003",
+    "Edited": ""
+  },
+  {
+    "Date": "10/2/2023",
+    "Time": "12:47",
+    "Type": "P",
+    "Amount": 27.05,
+    "Note": "udemy certification prep",
+    "Unknown": "",
+    "Details on": "chase 1003",
+    "Edited": ""
+  },
+  {
+    "Date": "10/3/2023",
+    "Time": "13:59",
+    "Type": "P",
+    "Amount": 16.22,
+    "Note": "cd, decor",
+    "Unknown": "",
+    "Details on": "chase 1010",
+    "Edited": ""
+  },
+  {
+    "Date": "10/3/2023",
+    "Time": "",
+    "Type": "R",
+    "Amount": 1816.68,
+    "Note": "ltimindtree",
+    "Unknown": "",
+    "Details on": "chase 1003",
+    "Edited": ""
+  },
+  {
+    "Date": "10/4/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 21.43,
+    "Note": "zelle to hannah",
+    "Unknown": "",
+    "Details on": "chase 1004",
+    "Edited": ""
+  },
+  {
+    "Date": "10/5/2023",
+    "Time": "8:00",
+    "Type": "P",
+    "Amount": 38.05,
+    "Note": "gas, bucees, 3.159",
+    "Unknown": "",
+    "Details on": "chase 1005",
+    "Edited": ""
+  },
+  {
+    "Date": "10/5/2023",
+    "Time": "8:12",
+    "Type": "P",
+    "Amount": 29.21,
+    "Note": "breakfast, bucees burrito",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/5/2023",
+    "Time": "10:53",
+    "Type": "P",
+    "Amount": 7.08,
+    "Note": "snack, chick fil a, fries and shake",
+    "Unknown": "",
+    "Details on": "chase 1010",
+    "Edited": ""
+  },
+  {
+    "Date": "10/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 6.6,
+    "Note": "snack, popcorn at maisie peters",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/7/2023",
+    "Time": "16:59",
+    "Type": "P",
+    "Amount": 22.74,
+    "Note": "3 oktoberfest tickets",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 11.5,
+    "Note": "snack, oktoberfest hotdog, saint arnold beer",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/8/2023",
+    "Time": "15:02",
+    "Type": "P",
+    "Amount": 4.86,
+    "Note": "snack, 2 hands corn dog",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/8/2023",
+    "Time": "19:01",
+    "Type": "P",
+    "Amount": 6.31,
+    "Note": "drink, moge tee",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/10/2023",
+    "Time": "21:17",
+    "Type": "P",
+    "Amount": 33,
+    "Note": "chris renzema concert ticket",
+    "Unknown": "",
+    "Details on": "discover 1011",
+    "Edited": ""
+  },
+  {
+    "Date": "10/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 22.5,
+    "Note": "zelle to phillip, lunch",
+    "Unknown": "",
+    "Details on": "chase 1010",
+    "Edited": ""
+  },
+  {
+    "Date": "10/11/2023",
+    "Time": "6:57",
+    "Type": "P",
+    "Amount": 14.99,
+    "Note": "gas, chevron, 3.199",
+    "Unknown": "",
+    "Details on": "chase 1011",
+    "Edited": ""
+  },
+  {
+    "Date": "10/11/2023",
+    "Time": "10:21",
+    "Type": "P",
+    "Amount": 19.99,
+    "Note": "gas, bucees, 3.259",
+    "Unknown": "",
+    "Details on": "chase 1011",
+    "Edited": ""
+  },
+  {
+    "Date": "10/11/2023",
+    "Time": "11:57",
+    "Type": "P",
+    "Amount": 35.78,
+    "Note": "gas, loves, 3.019",
+    "Unknown": "",
+    "Details on": "chase 1011",
+    "Edited": ""
+  },
+  {
+    "Date": "10/11/2023",
+    "Time": "12:01",
+    "Type": "P",
+    "Amount": 9.52,
+    "Note": "lunch, carls jr burger combo",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/12/2023",
+    "Time": "12:30",
+    "Type": "P",
+    "Amount": 7.79,
+    "Note": "lunch, braums salad",
+    "Unknown": "",
+    "Details on": "chase 1013",
+    "Edited": ""
+  },
+  {
+    "Date": "10/12/2023",
+    "Time": "18:11",
+    "Type": "P",
+    "Amount": 33,
+    "Note": "okc concert trip, zelle to hannah",
+    "Unknown": "",
+    "Details on": "chase 1012",
+    "Edited": ""
+  },
+  {
+    "Date": "10/12/2023",
+    "Time": "23:00",
+    "Type": "P",
+    "Amount": 2.59,
+    "Note": "snack, canes fries",
+    "Unknown": "",
+    "Details on": "discover 1013",
+    "Edited": ""
+  },
+  {
+    "Date": "10/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 18,
+    "Note": "okc concert trip, zelle to grace",
+    "Unknown": "",
+    "Details on": "chase 1012",
+    "Edited": ""
+  },
+  {
+    "Date": "10/12/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 22.72,
+    "Note": "dinner, hawkers, zelle to hannah",
+    "Unknown": "",
+    "Details on": "chase 1013",
+    "Edited": ""
+  },
+  {
+    "Date": "10/15/2023",
+    "Time": "11:51",
+    "Type": "P",
+    "Amount": 16.25,
+    "Note": "quiktrip gas, 2.799",
+    "Unknown": "",
+    "Details on": "chase 1016",
+    "Edited": ""
+  },
+  {
+    "Date": "10/15/2023",
+    "Time": "14:51",
+    "Type": "P",
+    "Amount": 27.44,
+    "Note": "lunch, sweetgreen",
+    "Unknown": "",
+    "Details on": "discover 1015",
+    "Edited": ""
+  },
+  {
+    "Date": "10/15/2023",
+    "Time": "15:55",
+    "Type": "P",
+    "Amount": 3.29,
+    "Note": "walgreens food - ramen",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/15/2023",
+    "Time": "15:55",
+    "Type": "P",
+    "Amount": 33.01,
+    "Note": "walgreens home goods - sponges, hairties, batteries, allergy pills",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/15/2023",
+    "Time": "20:15",
+    "Type": "P",
+    "Amount": 3.34,
+    "Note": "dinner, burger and nuggets",
+    "Unknown": "",
+    "Details on": "chase 1017",
+    "Edited": ""
+  },
+  {
+    "Date": "10/17/2023",
+    "Time": "",
+    "Type": "R",
+    "Amount": 1816.67,
+    "Note": "ltimindtree",
+    "Unknown": "",
+    "Details on": "chase 1017",
+    "Edited": ""
+  },
+  {
+    "Date": "10/18/2023",
+    "Time": "13:01",
+    "Type": "P",
+    "Amount": 80.83,
+    "Note": "hmart groceries - dumplings, buns, tomatoes, eggs, nuts, pancakes, bacon, cheese, milk, lettuce, grapes, bell peppers, oreos, ketchup, hot choco",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/18/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 16.17,
+    "Note": "lunch, hmart katsu",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/20/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 55.28,
+    "Note": "spectrum",
+    "Unknown": "",
+    "Details on": "chase 1020",
+    "Edited": ""
+  },
+  {
+    "Date": "10/21/2023",
+    "Time": "14:22",
+    "Type": "P",
+    "Amount": null,
+    "Note": "laundry",
+    "Unknown": "",
+    "Details on": "laundry card ->35.5",
+    "Edited": ""
+  },
+  {
+    "Date": "10/21/2023",
+    "Time": "14:31",
+    "Type": "P",
+    "Amount": 34.72,
+    "Note": "reliant",
+    "Unknown": "",
+    "Details on": "chase 1024",
+    "Edited": ""
+  },
+  {
+    "Date": "10/21/2023",
+    "Time": "14:37",
+    "Type": "P",
+    "Amount": 363.34,
+    "Note": "tithe",
+    "Unknown": "",
+    "Details on": "chase 1023",
+    "Edited": ""
+  },
+  {
+    "Date": "10/22/2023",
+    "Time": "21:08",
+    "Type": "P",
+    "Amount": 7.5,
+    "Note": "snack, sonic, venmo to christine",
+    "Unknown": "",
+    "Details on": "chase 1024",
+    "Edited": ""
+  },
+  {
+    "Date": "10/23/2023",
+    "Time": "6:00",
+    "Type": "P",
+    "Amount": 9,
+    "Note": "airport parking",
+    "Unknown": "",
+    "Details on": "cash",
+    "Edited": ""
+  },
+  {
+    "Date": "10/23/2023",
+    "Time": "17:34",
+    "Type": "P",
+    "Amount": 10.79,
+    "Note": "crafts, 2 zippers 2 canvases michaels",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/23/2023",
+    "Time": "18:14",
+    "Type": "P",
+    "Amount": 17.54,
+    "Note": "food, walmart frozen fruits",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/23/2023",
+    "Time": "18:14",
+    "Type": "P",
+    "Amount": 6.82,
+    "Note": "home goods, walmart masking tape, clasp rings, screws",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/25/2023",
+    "Time": "11:41",
+    "Type": "P",
+    "Amount": 10.11,
+    "Note": "lunch, sweetgreen",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/25/2023",
+    "Time": "17:59",
+    "Type": "P",
+    "Amount": 19.24,
+    "Note": "dinner, smoky rose, 16.24+tip",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/26/2023",
+    "Time": "20:26",
+    "Type": "P",
+    "Amount": 27.77,
+    "Note": "dinner, hawkers roti + wings, 23.81+tip",
+    "Unknown": "",
+    "Details on": "discover 1027",
+    "Edited": ""
+  },
+  {
+    "Date": "10/26/2023",
+    "Time": "20:51",
+    "Type": "P",
+    "Amount": 8.03,
+    "Note": "gas 2.869",
+    "Unknown": "",
+    "Details on": "chase 1026",
+    "Edited": ""
+  },
+  {
+    "Date": "10/27/2023",
+    "Time": "11:55",
+    "Type": "P",
+    "Amount": 10.23,
+    "Note": "lunch, sweetgreen",
+    "Unknown": "",
+    "Details on": "discover 1027",
+    "Edited": ""
+  },
+  {
+    "Date": "10/27/2023",
+    "Time": "14:11",
+    "Type": "P",
+    "Amount": 10,
+    "Note": "pickleball tournament activity, venmo to joey",
+    "Unknown": "",
+    "Details on": "chase 1030",
+    "Edited": ""
+  },
+  {
+    "Date": "10/27/2023",
+    "Time": "20:00",
+    "Type": "P",
+    "Amount": 10.18,
+    "Note": "dinner, panda press plate",
+    "Unknown": "",
+    "Details on": "discover 1027",
+    "Edited": ""
+  },
+  {
+    "Date": "10/27/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 1115,
+    "Note": "rent",
+    "Unknown": "",
+    "Details on": "chase 1027",
+    "Edited": ""
+  },
+  {
+    "Date": "10/29/2023",
+    "Time": "11:00",
+    "Type": "P",
+    "Amount": 14.32,
+    "Note": "breakfast brunch, c2 plate",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/29/2023",
+    "Time": "15:35",
+    "Type": "P",
+    "Amount": 8.66,
+    "Note": "jewelry, lovisa 2 necklaces",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/29/2023",
+    "Time": "16:11",
+    "Type": "P",
+    "Amount": 20.5,
+    "Note": "forever 21 shirt and blue hair streaks",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/29/2023",
+    "Time": "16:31",
+    "Type": "P",
+    "Amount": 10.62,
+    "Note": "accessories, hot topic gloves",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/29/2023",
+    "Time": "19:52",
+    "Type": "P",
+    "Amount": 6.12,
+    "Note": "clothes, skirt and icee",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/29/2023",
+    "Time": "19:58",
+    "Type": "P",
+    "Amount": 2.37,
+    "Note": "dinner, mcdonalds burger + 10 nugs",
+    "Unknown": "",
+    "Details on": "chase 1031",
+    "Edited": ""
+  },
+  {
+    "Date": "10/30/2023",
+    "Time": "14:05",
+    "Type": "P",
+    "Amount": 57.06,
+    "Note": "iParty tickets",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/30/2023",
+    "Time": "18:49",
+    "Type": "P",
+    "Amount": -28.52,
+    "Note": "iParty tickets",
+    "Unknown": "",
+    "Details on": "venmo",
+    "Edited": ""
+  },
+  {
+    "Date": "10/31/2023",
+    "Time": "9:16",
+    "Type": "P",
+    "Amount": 0,
+    "Note": "breakfast, mcdonalds sausage egg mcmuffin",
+    "Unknown": "",
+    "Details on": "",
+    "Edited": ""
+  },
+  {
+    "Date": "10/31/2023",
+    "Time": "18:59",
+    "Type": "P",
+    "Amount": 11.89,
+    "Note": "dinner, bucees club and pie",
+    "Unknown": "",
+    "Details on": "discover",
+    "Edited": ""
+  },
+  {
+    "Date": "10/31/2023",
+    "Time": "",
+    "Type": "R",
+    "Amount": 1816.67,
+    "Note": "ltimindtree",
+    "Unknown": "",
+    "Details on": "chase 1031",
+    "Edited": ""
+  },
+  {
+    "Date": "11/1/2023",
+    "Time": "3:10",
+    "Type": "P",
+    "Amount": 15.01,
+    "Note": "gas, circle k, 2.799",
+    "Unknown": "",
+    "Details on": "chase 1101",
+    "Edited": ""
+  },
+  {
+    "Date": "11/1/2023",
+    "Time": "15:19",
+    "Type": "P",
+    "Amount": 69.56,
+    "Note": "rent fees (admin, trash, water, gas)",
+    "Unknown": "",
+    "Details on": "chase 1102",
+    "Edited": ""
+  },
+  {
+    "Date": "11/1/2023",
+    "Time": "15:32",
+    "Type": "P",
+    "Amount": 1115,
+    "Note": "rent",
+    "Unknown": "",
+    "Details on": "chase 1102",
+    "Edited": ""
+  },
+  {
+    "Date": "11/1/2023",
+    "Time": "21:53",
+    "Type": "P",
+    "Amount": 5.29,
+    "Note": "dinner, mcds sandwich and fries",
+    "Unknown": "",
+    "Details on": "chase 1103",
+    "Edited": ""
+  },
+  {
+    "Date": "11/1/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.15,
+    "Note": "snack, bucees icee and juice",
+    "Unknown": "",
+    "Details on": "discover 1101",
+    "Edited": ""
+  },
+  {
+    "Date": "11/2/2023",
+    "Time": "23:39",
+    "Type": "P",
+    "Amount": 8.39,
+    "Note": "dinner, in n out burger meal",
+    "Unknown": "",
+    "Details on": "discover 1102",
+    "Edited": ""
+  },
+  {
+    "Date": "11/3/2023",
+    "Time": "19:18",
+    "Type": "P",
+    "Amount": 25.36,
+    "Note": "gas, costco, 2.599",
+    "Unknown": "",
+    "Details on": "chase 1103",
+    "Edited": ""
+  },
+  {
+    "Date": "11/3/2023",
+    "Time": "23:33",
+    "Type": "P",
+    "Amount": 11.67,
+    "Note": "dinner, whataburger chicken strip meal",
+    "Unknown": "",
+    "Details on": "discover 1104",
+    "Edited": ""
+  },
+  {
+    "Date": "11/5/2023",
+    "Time": "21:35",
+    "Type": "P",
+    "Amount": 9.73,
+    "Note": "dinner, canes 3 finger combo",
+    "Unknown": "",
+    "Details on": "discover 1105",
+    "Edited": ""
+  },
+  {
+    "Date": "11/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 44.44,
+    "Note": "groceries, fiesta",
+    "Unknown": "",
+    "Details on": "discover 1105",
+    "Edited": ""
+  },
+  {
+    "Date": "11/5/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 32.64,
+    "Note": "food, hawkers",
+    "Unknown": "",
+    "Details on": "discover 1105",
+    "Edited": ""
+  },
+  {
+    "Date": "11/7/2023",
+    "Time": "23:17",
+    "Type": "P",
+    "Amount": 19.84,
+    "Note": "dinner 2, vidorra tacos (17.84+tax)",
+    "Unknown": "",
+    "Details on": "discover 1107",
+    "Edited": ""
+  },
+  {
+    "Date": "11/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 27.98,
+    "Note": "food, yard house",
+    "Unknown": "",
+    "Details on": "discover 1107",
+    "Edited": ""
+  },
+  {
+    "Date": "11/7/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 0,
+    "Note": "aws ccp exam, -100 discover 1107, +100",
+    "Unknown": "",
+    "Details on": "discover 1107",
+    "Edited": ""
+  },
+  {
+    "Date": "11/8/2023",
+    "Time": "12:54",
+    "Type": "P",
+    "Amount": 33.28,
+    "Note": "gas, bucees, 2.659",
+    "Unknown": "",
+    "Details on": "chase 1108",
+    "Edited": ""
+  },
+  {
+    "Date": "11/8/2023",
+    "Time": "20:52",
+    "Type": "P",
+    "Amount": 64.37,
+    "Note": "dinner, the corner, 57.37+tax",
+    "Unknown": "",
+    "Details on": "discover 1109",
+    "Edited": ""
+  },
+  {
+    "Date": "11/8/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 10.26,
+    "Note": "bucees",
+    "Unknown": "",
+    "Details on": "discover 1108",
+    "Edited": ""
+  },
+  {
+    "Date": "11/8/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 4.9,
+    "Note": "trip, atx park",
+    "Unknown": "",
+    "Details on": "discover 1108",
+    "Edited": ""
+  },
+  {
+    "Date": "11/9/2023",
+    "Time": "2:56",
+    "Type": "P",
+    "Amount": -23.01,
+    "Note": "dinner, date night, venmo from annisya sabrina",
+    "Unknown": "",
+    "Details on": "venmo 1109",
+    "Edited": ""
+  },
+  {
+    "Date": "11/9/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 2.9,
+    "Note": "trip, atx park",
+    "Unknown": "",
+    "Details on": "discover 1109",
+    "Edited": ""
+  },
+  {
+    "Date": "11/9/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 8.3,
+    "Note": "trip, atx park",
+    "Unknown": "",
+    "Details on": "discover 1109",
+    "Edited": ""
+  },
+  {
+    "Date": "11/9/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 9.65,
+    "Note": "trip, atx park",
+    "Unknown": "",
+    "Details on": "discover 1109",
+    "Edited": ""
+  },
+  {
+    "Date": "11/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 9.83,
+    "Note": "snack, tea and brownie mozarts",
+    "Unknown": "",
+    "Details on": "discover 1111",
+    "Edited": ""
+  },
+  {
+    "Date": "11/10/2023",
+    "Time": "12:05",
+    "Type": "P",
+    "Amount": 13.95,
+    "Note": "breakfast, bobos crepes",
+    "Unknown": "",
+    "Details on": "discover 1111",
+    "Edited": ""
+  },
+  {
+    "Date": "11/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 4.4,
+    "Note": "trip, atx park",
+    "Unknown": "",
+    "Details on": "discover 1110",
+    "Edited": ""
+  },
+  {
+    "Date": "11/10/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 6.9,
+    "Note": "trip, atx park",
+    "Unknown": "",
+    "Details on": "discover 1110",
+    "Edited": ""
+  },
+  {
+    "Date": "11/11/2023",
+    "Time": "19:10",
+    "Type": "P",
+    "Amount": 15.58,
+    "Note": "gas, quiktrip, 2.699",
+    "Unknown": "",
+    "Details on": "chase 1113",
+    "Edited": ""
+  },
+  {
+    "Date": "11/11/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 9.74,
+    "Note": "clothes, pavement",
+    "Unknown": "",
+    "Details on": "discover 1111",
+    "Edited": ""
+  },
+  {
+    "Date": "11/11/2023",
+    "Time": "",
+    "Type": "P",
+    "Amount": 34.62,
+    "Note": "decor, popmart teso",
+    "Unknown": "",
+    "Details on": "discover 1111",
+    "Edited": ""
+  },
+  {
+    "Date": "11/12/2023",
+    "Time": "16:44",
+    "Type": "P",
+    "Amount": 29.67,
+    "Note": "dinner, kbbq, venmo to Jacinta Lu",
+    "Unknown": "",
+    "Details on": "chase 1115",
+    "Edited": ""
+  },
+  {
+    "Date": "11/12/2023",
+    "Time": "16:44",
+    "Type": "P",
+    "Amount": 25.09,
+    "Note": "movie ticket, venmo to Jacinta Lu",
+    "Unknown": "",
+    "Details on": "chase 1115",
+    "Edited": ""
+  },
+  {
+    "Date": "11/13/2023",
+    "Time": "9:59",
+    "Type": "P",
+    "Amount": 29.16,
+    "Note": "gas, costco, 2.569",
+    "Unknown": "",
+    "Details on": "chase 1113",
+    "Edited": ""
+  },
+  {
+    "Date": "11/13/2023",
+    "Time": "14:54",
+    "Type": "P",
+    "Amount": 17.94,
+    "Note": "lunch ramen, venmo to Melissa Ye",
+    "Unknown": "",
+    "Details on": "chase 1114",
+    "Edited": ""
+  },
+  {
+    "Date": "11/14/2023",
+    "Time": "",
+    "Type": "R",
+    "Amount": 1824.56,
+    "Note": "ltimindtree",
+    "Unknown": "",
+    "Details on": "chase 1114",
+    "Edited": ""
+  },
+  {
+    "Date": "11/17/2023",
+    "Time": "12:00",
+    "Type": "P",
+    "Amount": 84,
+    "Note": "massage, my thai 60min, 70+tip",
+    "Unknown": "",
+    "Details on": "",
+    "Edited": ""
+  },
+  {
+    "Date": "11/17/2023",
+    "Time": "14:42",
+    "Type": "P",
+    "Amount": 364.13,
+    "Note": "tithe",
+    "Unknown": "",
+    "Details on": "",
+    "Edited": ""
+  }
+ ]
