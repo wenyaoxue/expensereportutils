@@ -22,13 +22,13 @@
 * alphabetized the category filter drop down
 * started working on alternating colors - refactoring the table display
 ## idk if i did anything else during this time??
-## 12/21 (x (+y = ~117min))
+## 12/21 (x (+y = ~118min))
 * did a little more googling and accepted the fact that i'm gonna have to create a backend to update files
 * finished some documentation, created preliminary instructions and uploaded the relevant files
 # V3
-## 12/21 (y (+x = ~117min))
+## 12/21 (y (+x = ~118min))
 * getting back in the swing of creating a java rest app - reviewing old project, notes
 * created a demo, barest minimum spring web app: one path that returns a string, checked the url and all good
 * starting to change the front end: directed fetch to the new backend, made sure i can get the string, also added a "last sync" timestamp
 * 7 min today's journal
-* 40 min fiddling around, reacquainting myself with java, maven, json - changed my one path to return the json file (as a json string)
+* 41 min fiddling around, reacquainting myself with java, maven, json - changed my one path to return the json file (as a json string), updated the front end - restored to the same front end as v2
