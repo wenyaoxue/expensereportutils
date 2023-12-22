@@ -1,0 +1,18 @@
+{
+    "tithe":{"purchases":["tithe"],"monthSpendBudget":0},
+    "housing":{"purchases":["rent","laundry"],"monthSpendBudget":0},
+    "electricity":{"purchases":["electricity","reliant"],"monthSpendBudget":0},
+    "internet":{"purchases":["spectrum"],"monthSpendBudget":0},
+    "transportation":{"purchases":["gas","bus","bike","plane","uber","lyft","parking","taxi","train","subway","metro"],"monthSpendBudget":0},
+    "entertainment":{"purchases":["concert","movie","festival","lesson","activity","workshop","experience","museum","ticket","app"],"monthSpendBudget":0},
+    "food":{"purchases":["food","breakfast","lunch","dinner","dessert","snack","drink","groceries"],"monthSpendBudget":0},
+    "therapy":{"purchases":["therapy"],"monthSpendBudget":0},
+    "massages":{"purchases":["massage","spa"],"monthSpendBudget":0},
+    "supplies fund":{"purchases":["toiletries","broken things","office supplies","home goods","course"],"monthSpendBudget":0},
+    "fun fund":{"purchases":["trip","retreat","hat","pant","shirt","dress","sock","underwear","swimsuit","accessories","decor","gadget","souvenir","toy","crafts"],"monthSpendBudget":0},
+    "parent fund":{"purchases":["parents"],"monthSpendBudget":0},
+    "savings":{"purchases":["house","car","family","doctor","hospital","dentist"],"monthSpendBudget":0},
+    "support":{"purchases":["donation","gift","support"],"monthSpendBudget":0},
+    "income":{"purchases":["ltimindtree","babysit","work","tutor"],"monthSpendBudget":0},
+    "idk":{"purchases":["401k","taxes","insurance","phoneplan"],"monthSpendBudget":0}
+}
