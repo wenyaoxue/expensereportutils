@@ -38,8 +38,8 @@
 * 41 min fiddling around, reacquainting myself with java, maven, json - changed my one path to return the json file (as a json string), updated the front end - restored to the same front end as v2
 ## 12/22 and 12/23 (a long time - i am not a words person)
 * finished a full draft of both mission statements
-## 12/23 (50min)
+## 12/23 (55min)
 * updated getexprep: catch filenotfound, return []
 * added getcats: incl fe fetch, generate default if not found
-* added front end config/BaseURL and APIReqs - that's what we used with the fs project to do get, post, put, delete (i had been using fetch for above 2) + `npm i axios` + `npm audit fix --force` -> a bunch of errors :(
+* added front end config/BaseURL and APIReqs - that's what we used with the fs project to do get, post, put, delete (i had been using fetch for above 2) + `npm i axios` + `npm audit fix --force` -> a bunch of errors :(, trying to restore to before axios before i stop tonight
 * started postcolor, couldn't finish bc above
