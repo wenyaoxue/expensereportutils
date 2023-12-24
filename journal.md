@@ -21,7 +21,11 @@
 * added a message when no data exists
 * alphabetized the category filter drop down
 * started working on alternating colors - refactoring the table display
-## idk if i did anything else during this time??
+## 11/23
+* finished alternating colors
+* synced color selection with table colors
+* text color changed (black and white, against background color) - later: may try to streamline the way these variables are passed through props
+* how to write files!!!! fs doesn't work in components, frame in component that pulls an html from public that posts to php or js is in public, doesn't work, i think u need another server
 ## 12/21 (x (+y = ~118min))
 * did a little more googling and accepted the fact that i'm gonna have to create a backend to update files
 * finished some documentation, created preliminary instructions and uploaded the relevant files
@@ -32,3 +36,9 @@
 * starting to change the front end: directed fetch to the new backend, made sure i can get the string, also added a "last sync" timestamp
 * 7 min today's journal
 * 41 min fiddling around, reacquainting myself with java, maven, json - changed my one path to return the json file (as a json string), updated the front end - restored to the same front end as v2
+## 12/22 and 12/23 (a long time - i am not a words person)
+* finished a full draft of both mission statements
+## 12/23 23:15 - 
+* updated getexprep: catch filenotfound, return []
+* added getcats: incl fe fetch, generate default if not found
+* added front end config/BaseURL and APIReqs - that's what we used with the fs project to do get, post, put, delete (i had been using fetch for above 2) + `npm i axios` + `npm audit fix --force` -> a bunch of errors :(
