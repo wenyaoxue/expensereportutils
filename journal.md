@@ -41,5 +41,5 @@
 ## 12/23 (55min)
 * updated getexprep: catch filenotfound, return []
 * added getcats: incl fe fetch, generate default if not found
-* added front end config/BaseURL and APIReqs - that's what we used with the fs project to do get, post, put, delete (i had been using fetch for above 2) + `npm i axios` + `npm audit fix --force` -> a bunch of errors :(, trying to restore to before axios before i stop tonight
+* added front end config/BaseURL and APIReqs - that's what we used with the fs project to do get, post, put, delete (i had been using fetch for above 2) + `npm i axios` + `npm audit fix --force` -> a bunch of errors :(, trying to restore to before axios before i stop tonight .... uh oh not npm starting at all now, yikes
 * started postcolor, couldn't finish bc above
