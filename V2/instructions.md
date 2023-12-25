@@ -1,4 +1,4 @@
-1. create react app
+1. create react app (https://github.com/wenyaoxue/notes/blob/main/ReactJS.md#setup-eg-in-vsc-terminal)
 2. override + add relevant files
 3. terminal: npm i, npm start
 4. wait for browser to open: localhost:3000
