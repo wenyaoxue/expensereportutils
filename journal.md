@@ -38,13 +38,16 @@
 * 41 min fiddling around, reacquainting myself with java, maven, json - changed my one path to return the json file (as a json string), updated the front end - restored to the same front end as v2
 ## 12/22 and 12/23 (a long time - i am not a words person)
 * finished a full draft of both mission statements
-## 12/23 (55min)
+## 12/23 (55min) 
 * starting mapping out the be paths needed
 * updated getexprep be path: catch filenotfound, return []
 * added getcats be path: incl fe fetch, generate default if not found
 * added front end config/BaseURL and APIReqs - that's what we used with the fs project to do get, post, put, delete (i had been using fetch for above 2) + `npm i axios` + `npm audit fix --force` -> a bunch of errors :(, trying to restore to before axios before i stop tonight .... uh oh not npm starting at all now, yikes
 * started postcolor, couldn't finish bc above
-## 12/24 (115min)
+## 12/24 (183min)
 * trying to reset, just with a new react app, gonna copy stuff over - all good
 * finished postcolor be path: variables needed sending properly, colors json created (if not found) and updated, incl fe postColor for both selections - started with rgb then changed to hex for storage (note: # in a path causes some problems)
-* started getcolors be path: fe apireqs get then catch, updated default
+* added getcolors be path: incl fe apireqs get then catch updates default when page loads
+* finished (i think) refactoring v1 categories.html into a component - incl link, delete, add, just cleaned a bit and not integrated with any other features yet
+  * note in react, onclick for functions, onClick within html component being returned
+  * note using useeffect to fire when an array or object changes: must use a deep copy, checks reference
