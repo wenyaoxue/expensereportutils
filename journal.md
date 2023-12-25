@@ -51,3 +51,16 @@
 * finished (i think) refactoring v1 categories.html into a component - incl link, delete, add, just cleaned a bit and not integrated with any other features yet
   * note in react, onclick for functions, onClick within html component being returned
   * note using useeffect to fire when an array or object changes: must use a deep copy, checks reference
+## 12/25 (120ish min)
+* continued refactoring categories.html
+  * made sure cats variable was being reset
+  * cleaned some
+  * thought about features to implement
+  * switched to reading initial dictionary from the file
+  * save to file by posting - ie and loads from here too! bc above
+    * @RequestBody String - encoding difficulty, plus looks like there might be a character limit
+    * tried and figured out Map<String, List<String>> should get the object just file
+  * changed reset buttons to last saved and also provided defaults, without posting
+  * not yet, much later: (different category sets, ordered categories, ordered category sets - all for later, not now - file change and stuff)
+* some decision paralysis
+* moving json up to display to pass down to both summary and transactions - broken
