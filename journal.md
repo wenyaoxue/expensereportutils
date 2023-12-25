@@ -39,7 +39,12 @@
 ## 12/22 and 12/23 (a long time - i am not a words person)
 * finished a full draft of both mission statements
 ## 12/23 (55min)
-* updated getexprep: catch filenotfound, return []
-* added getcats: incl fe fetch, generate default if not found
+* starting mapping out the be paths needed
+* updated getexprep be path: catch filenotfound, return []
+* added getcats be path: incl fe fetch, generate default if not found
 * added front end config/BaseURL and APIReqs - that's what we used with the fs project to do get, post, put, delete (i had been using fetch for above 2) + `npm i axios` + `npm audit fix --force` -> a bunch of errors :(, trying to restore to before axios before i stop tonight .... uh oh not npm starting at all now, yikes
 * started postcolor, couldn't finish bc above
+## 12/24 (115min)
+* trying to reset, just with a new react app, gonna copy stuff over - all good
+* finished postcolor be path: variables needed sending properly, colors json created (if not found) and updated, incl fe postColor for both selections - started with rgb then changed to hex for storage (note: # in a path causes some problems)
+* started getcolors be path: fe apireqs get then catch, updated default
