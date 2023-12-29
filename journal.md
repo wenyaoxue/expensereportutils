@@ -64,3 +64,23 @@
   * not yet, much later: (different category sets, ordered categories, ordered category sets - all for later, not now - file change and stuff)
 * some decision paralysis
 * moving json up to display to pass down to both summary and transactions - broken
+* 65 + 120
+* instead of trying to keep the whole table in a prop - not working and also eh why
+* search file - post be, created be entity, considering how to store
+* fe will keep a variable for current search name, + fetch
+* lastUsed:''
+* note reqbody entity will use the easiest constructor, even if sending no info at all
+* for now --- i guess every time u change something, LASTUSED on the file will update. idk, prob not a good idea in general but whatevs for now
+* post search done
+* get search/name done - haven't applied yet
+* get exprep/searchname
+* still working - refactoring the filters, using search entity and JSONObject transaction
+## 12/26 (40ish min)
+* working on sorts
+* added category gets: based on search
+* having a controller constructor doesn't seem to be a good idea, having multiple controllers seems fine, gonna split
+## 12/27 11:00
+* finished identifycat/trsxn
+* working on moving trdata from variable to api call
+## 12/28 16:04
+* cleaning code
