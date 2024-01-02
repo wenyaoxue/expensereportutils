@@ -25,7 +25,7 @@ Note this is currently a very specialized functionality
 * Optional: emojis.csv has a nonzero chance of becoming outdated if new emojis are created. To update, execute ScrapeEmojis.java, select the relevant output in the console, ctrl+c, go to emojis.csv, ctrl+a, ctrl+v
 * Open convert.py in a text editor and make sure the values in lines 3-5 match the names of the 3 statements you've saved
 * Execute convert.py (eg in terminal, cd to location, `python3 convert.py`)
-* Select the output in the console, ctrl+c, click cell A2 (or first empty row) on the relevant month sheet, ctrl+shift+v, click dropdown by paste formatting icon, select Semicolon in separator dropdown
+* Select the output in the console, ctrl+c, click cell A2 (or first empty row) on the relevant month sheet, ctrl+shift+v, click the dropdown by paste formatting icon, click `Split text to columns`, select `Semicolon` in separator dropdown
 * Re-paste cells in column E
 * Review notes, rewrite if needed
 * Review if you have any manual logs to avoid duplicates, and keep as much accurate information as you have (note some transaction dates recorded from the statements may be up to a few days off)
