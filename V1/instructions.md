@@ -20,9 +20,11 @@
 ### Automated
 Note this is currently a very specialized functionality
 * Save a Chase statement csv, a Discover statement csv, and a Venmo statement csv to the V1 folder (must have all 3)
+  * chase > click the bank account > account activity > search (date range), download account activity > csv, download
+  * discover > Activity > Activity & Statements > Advanced Search (date range), search > Download > CSV > Download
 * Optional: emojis.csv has a nonzero chance of becoming outdated if new emojis are created. To update, execute ScrapeEmojis.java, select the relevant output in the console, ctrl+c, go to emojis.csv, ctrl+a, ctrl+v
 * Open convert.py in a text editor and make sure the values in lines 3-5 match the names of the 3 statements you've saved
-* Execute convert.py
+* Execute convert.py (eg in terminal, cd to location, `python3 convert.py`)
 * Select the output in the console, ctrl+c, click cell A1 on the relevant month sheet, ctrl+shift+v
 * Re-paste cells in column E
 * Review notes, rewrite if needed
