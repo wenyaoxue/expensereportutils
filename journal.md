@@ -85,4 +85,11 @@
 ## 12/28 18:00
 * debugging - alright so right now, in a parent component there's a local state variable that the parent can set to be one component or another. the parent component passes another local state variable and its set method to the child component (that is being set), but when the child component uses that set function, the child component isn't being re-rendered, so it doesn't trigger the setVal function ... however, because of that, that's why currently the child component can maintain its own values, otherwise ie `{childcomponent}` directly appears in the return html, it's resetting everything every time....oy
 ## 1/13 40min
-* just tryna remember, starting to separate out the search into a separate component, redo the display component
+* just tryna remember
+* reworking display component - starting by creating search as a direct child component, and making sure the values are maintained by the display component
+* small feature: switching to custom doesn't automatically reset the most recently selected date values
+* working on backend path post LASTUSED - before it wasn't replacing, remembering how to handle JSON
+* without dealing with any transaction data yet - entering search working (posting lastused), save search working, get search values working (added: updates the values in the form, doesn't affect the date range pick expected behavior)
+  * note: can query select stuff from child components
+* thinking about how to format all this search stuff together
+* also definitely in the future each one of these can have multiselect/ordering.....  way in the future tho
