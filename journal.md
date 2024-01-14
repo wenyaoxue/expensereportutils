@@ -84,3 +84,5 @@
 * working on moving trdata from variable to api call
 ## 12/28 18:00
 * debugging - alright so right now, in a parent component there's a local state variable that the parent can set to be one component or another. the parent component passes another local state variable and its set method to the child component (that is being set), but when the child component uses that set function, the child component isn't being re-rendered, so it doesn't trigger the setVal function ... however, because of that, that's why currently the child component can maintain its own values, otherwise ie `{childcomponent}` directly appears in the return html, it's resetting everything every time....oy
+## 1/13 40min
+* just tryna remember, starting to separate out the search into a separate component, redo the display component
