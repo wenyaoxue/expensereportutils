@@ -84,7 +84,7 @@
 * working on moving trdata from variable to api call
 ## 12/28 18:00
 * debugging - alright so right now, in a parent component there's a local state variable that the parent can set to be one component or another. the parent component passes another local state variable and its set method to the child component (that is being set), but when the child component uses that set function, the child component isn't being re-rendered, so it doesn't trigger the setVal function ... however, because of that, that's why currently the child component can maintain its own values, otherwise ie `{childcomponent}` directly appears in the return html, it's resetting everything every time....oy
-## 1/13 40min
+## 1/13 2hr?
 * just tryna remember
 * reworking display component - starting by creating search as a direct child component, and making sure the values are maintained by the display component
 * small feature: switching to custom doesn't automatically reset the most recently selected date values
@@ -93,3 +93,25 @@
   * note: can query select stuff from child components
 * thinking about how to format all this search stuff together
 * also definitely in the future each one of these can have multiselect/ordering.....  way in the future tho
+## 1/15 45min
+* moved all search stuff - checking vals, gets/posts, into the search component
+* changed get search into a dropdown (including a get searches to populate the dropdown)
+* syncing - saving updates dropdown, idk playing around with it to make sure things are right, :/ so many things going on, axioserrors that i haven't specifically debugged...
+## 1/16 45min + 16:00-
+* display parent component holds a variable for search name, and edits (child component's) get search drop down current value when set
+* i'm getting an axios error on getsearches occasionally, i think it's because when you get, things are updated, so it tries to post a last used, so then it tries to get again before the post is done? that's my guess. let me look at my code. GET colors, POST search, GET searches - at beginning, sometimes error
+* search overview:
+  * NEW: constant search object defaultsearch with default vals
+  * one state for each part of search (NEW: gets default values from defaultsearch)
+  * function setSearchname - updates searchname state, updates apply search dropdown value
+  * function savesearch: (NEW: (if current states != defaultsearch, ie if the page didn't just load - this appears to have fixed the previous error, no post search + get searches combo) POST current search) then (if not lastused - setApplySearch and clear savesearch input field)
+  * function getsearch: GET apply search dropdown value, set all search states and form values, setSearchname
+  * every time any search part is updated: call savesearch("LASTUSED")
+  * at the beginning, setDateSelect (hardcoded arrays) and setCatSelect (GET cats) and setApplySearch (GET searches then update apply search dropdown and if called with a searchname (ie just posted) update apply search dropdown value + NEW: else (ie page just loaded) getsearch
+  * function selectDate - sets daterangepickvar, startdate, and enddate
+  * return
+    * apply search dropdown - calls getsearch
+    * sort buttons - updates state + NEW: calls setSearchname
+    * date dropdown - calls selectDate - and daterangepickvar (which includes fields that updates state and calls setSearchname)
+    * amtmin, amtmax, cat, unk, dtls form fields - updates state and calls setSearchname
+    * savesearch form field - calls savesearch and calls setSearchname
