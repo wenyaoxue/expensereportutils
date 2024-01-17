@@ -97,17 +97,17 @@
 * moved all search stuff - checking vals, gets/posts, into the search component
 * changed get search into a dropdown (including a get searches to populate the dropdown)
 * syncing - saving updates dropdown, idk playing around with it to make sure things are right, :/ so many things going on, axioserrors that i haven't specifically debugged...
-## 1/16 45min + 16:00-
+## 1/16 3h15min
 * display parent component holds a variable for search name, and edits (child component's) get search drop down current value when set
 * i'm getting an axios error on getsearches occasionally, i think it's because when you get, things are updated, so it tries to post a last used, so then it tries to get again before the post is done? that's my guess. let me look at my code. GET colors, POST search, GET searches - at beginning, sometimes error
 * search overview:
   * NEW: constant search object defaultsearch with default vals
   * one state for each part of search (NEW: gets default values from defaultsearch)
   * function setSearchname - updates searchname state, updates apply search dropdown value
-  * function savesearch: (NEW: (if current states != defaultsearch, ie if the page didn't just load - this appears to have fixed the previous error, no post search + get searches combo) POST current search) then (if not lastused - setApplySearch and clear savesearch input field)
+  * function savesearch: (NEW: (if current states != defaultsearch, ie if the page didn't just load - this appears to have fixed the previous error, no post search + get searches combo UNLESS you save the code and it autorefreshes, then it's not equal to defaultsearch and sometimes will get the error, seems logical) POST current search) then (if not lastused - setApplySearch and clear savesearch input field)
   * function getsearch: GET apply search dropdown value, set all search states and form values, setSearchname
   * every time any search part is updated: call savesearch("LASTUSED")
-  * at the beginning, setDateSelect (hardcoded arrays) and setCatSelect (GET cats) and setApplySearch (GET searches then update apply search dropdown and if called with a searchname (ie just posted) update apply search dropdown value + NEW: else (ie page just loaded) getsearch
+  * at the beginning, setDateSelect (hardcoded arrays) and setCatSelect (GET cats) and setApplySearch (GET searches then update apply search dropdown and if called with a searchname (ie just posted) update apply search dropdown value + NEW: else (ie page just loaded OR just deleted) getsearch
   * function selectDate - sets daterangepickvar, startdate, and enddate
   * return
     * apply search dropdown - calls getsearch
@@ -115,3 +115,6 @@
     * date dropdown - calls selectDate - and daterangepickvar (which includes fields that updates state and calls setSearchname)
     * amtmin, amtmax, cat, unk, dtls form fields - updates state and calls setSearchname
     * savesearch form field - calls savesearch and calls setSearchname
+* added a function, go between for setting sortcol: also adds a class to highlight the selected button
+* adding a delete this search: button (enabled when setApplySearch is done), function (DELETE then setApplySearch), backend (deleting LASTUSED reverts to og)
+* forgot before - custom dates form fields not updated after getsearch, fixing
