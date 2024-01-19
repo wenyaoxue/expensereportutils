@@ -179,20 +179,34 @@
   * block out unused paid/received
   * tests
   * loading search not predictable???
-## 1/19 1h15min
-* working on color scale - rank, set backgroundcolor
-* first try: scale rgb altogether, up and down - gets too dark and indistinguishable
-```
-    function scaleColPart(val, i) {
-        return parseInt(val/255 * 1/(i+1) * 200 + 55) 
-    }
-        let color1Scale = []
-        for (let i = 0; i < 12; i++) {
-            let scaleRgb = {"r": scaleColPart(selectedColor1.r,i),"g": scaleColPart(selectedColor1.g,i),"b": scaleColPart(selectedColor1.b,i)}
-            console.log("color scale", scaleRgb)
-            color1Scale.push(rgbToHex(scaleRgb.r,scaleRgb.g,scaleRgb.b))
-        }
-```
-* second try: scale from color1 to color2
-
-* gotta also make sure it changes with colorchoose 
+## 1/19 4h15min
+* working on color scale - rank, query select and set backgroundcolor+textcolor, scale (on hover, select <3), + called when colorchoose (uses color states - since not classes)
+  * first try: scale rgb altogether, up and down - gets too dark and indistinguishable
+  ```
+      function scaleColPart(val, i) {
+          return parseInt(val/255 * 1/(i+1) * 200 + 55) 
+      }
+          let color1Scale = []
+          for (let i = 0; i < 12; i++) {
+              let scaleRgb = {"r": scaleColPart(selectedColor1.r,i),"g": scaleColPart(selectedColor1.g,i),"b": scaleColPart(selectedColor1.b,i)}
+              console.log("color scale", scaleRgb)
+              color1Scale.push(rgbToHex(scaleRgb.r,scaleRgb.g,scaleRgb.b))
+          }
+  ```
+  * second try: scale from color1 to color2 - idk i'll think about it, but it's working
+  ```
+      function perc2color(perc, selectedColor1, diffs) {
+          var r = parseInt(selectedColor1.r + diffs.r*perc/100);
+          var g = parseInt(selectedColor1.g + diffs.g*perc/100);
+          var b = parseInt(selectedColor1.b + diffs.b*perc/100);
+          console.log("color scale", perc, r, g, b)
+          return rgbToHex(r,g,b)
+      }
+          let color1Scale = []
+          for (let i = 0; i < 12; i++) {
+              color1Scale.push(perc2color(i/12 * 100, selectedColor1, diffs))
+          }
+  ```
+  * and some adjustments so it doesn't match exactly, so the other colors can be the styled colors + stays in range
+* changed: color range to be represented by a css rule for a class, moving to header (functions, style), then in summarytable just apply class once, not color, and select based on class, not color
+* incorporating other tables (transactions + by day), moving stuff into functions/states - tried but it seems quite complicated so i undid everything and am gonna take a break now
