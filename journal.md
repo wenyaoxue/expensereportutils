@@ -122,7 +122,7 @@
 * I ended yesterday thinking that the post delete update wasn't working, but it looks like it actually is
 * yesterdays last jot dot finished
 * a little bit of search css - containers, size, color
-## 1/18 4h45min
+## 1/18 8h30min
 * can't get height 100 to work, using verticalAlign top instead
 * tried to adjust TransactionTableHolder, decided to start over instead
 * added a variable to update when a search is posted - to check for, searchname might not change (ie LASTUSED) but updsearch should - know to get transactions again
@@ -134,6 +134,17 @@
 * display page layout - debated having a tableholder state, set to TransactionTableHolder or SummaryTableHolder - doesn't work, doesn't keep it updated, can't do that, using display none and inlineblock toggle instead
 * decided it doesn't actually make sense to search -> summary, moving search back onto transactiontableholder
 * starting summary table, styling and generating the vals and stuff-
+* i can generate a style in javascript (ie when the color loads), so that when i create my elements, i can just give them a class instead of having to recreate them!! ie color separately, gonna do that now
+  * can [createElement("style")](https://www.geeksforgeeks.org/how-to-create-a-style-tag-using-javascript/), and the element can have an id that can be selected, and innerHTML that contains all the css that can be edited - ie edit css rules using javascript!!
+  * don't need to getcolors everytime
+  * created colors.css with default colors (2 classes), header.js adds the id to the style on page load, updates the style (using the id) on color load (when page loads) and when chooseColor, taking out inline styles and instead adding classes ( TransactionTableHolder2, Search)
+  * also cleaning up Header - putting into functions - like 5 new functions lolz
+  * amazing! incredible! cleans up some code, + speeds things up quite a bit! + more synced - no longer reloading all transactions when colors change
+* minimal, not so structured testing
+  * error in TransactionTableHolder2 includes null - getexprep is returning an error and js is trying to read it - it's because search wasn't searching for "other" properly - going to have to check separately from the Search.checkfilters
+  * little bug, sometimes the form fields from search aren't filled out, presumably because they haven't been set by the time getsearch has finished (ye getsearch then getcats finishes, doesn't show, other way does show), but the state of which to select isn't updating fast enough to select at the end of getcats, and I don't want to call it too much - wait, calling setCats later thinks catfilter is ""?? - not the best, redundant and not intuitive but when catfilter changes, document.queryselect the dropdown and set the value
+  * sometimes the first LASTUSED changes??? later, can't recreate it rn
+* back to summary - incredible! calculations for amounts per cat per mo and total lookin good, checked generally, + i've got the simplest avg/mo - my 2023 google sheets now has a couple of numbers that i directly edited so I can test - just leaving a record of the fact that i did that here
 ## 1/19
 *'m gonna start rn with just using the searched data, going to have to change later to accom for "marked" instead.. (switching between summary and details, debated but still gonna use a set state)
 * 
