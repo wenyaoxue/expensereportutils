@@ -118,3 +118,22 @@
 * added a function, go between for setting sortcol: also adds a class to highlight the selected button
 * adding a delete this search: button (enabled when setApplySearch is done), function (DELETE then setApplySearch), backend (deleting LASTUSED reverts to og)
 * forgot before - custom dates form fields not updated after getsearch, fixing
+## 1/17 30min
+* I ended yesterday thinking that the post delete update wasn't working, but it looks like it actually is
+* yesterdays last jot dot finished
+* a little bit of search css - containers, size, color
+## 1/18 4h45min
+* can't get height 100 to work, using verticalAlign top instead
+* tried to adjust TransactionTableHolder, decided to start over instead
+* added a variable to update when a search is posted - to check for, searchname might not change (ie LASTUSED) but updsearch should - know to get transactions again
+* finished moving everything over into TransactionTableHolder2 - except using backend calls instead of props objects/arrays
+* bolded prch keywords in note using [dangerouslysetinnerhtml](https://stackoverflow.com/questions/23616226/insert-html-with-react-variable-statements-jsx) - see why there are some issues with which one it's being classified as, can use this as a tool to edit categories LATER
+* backend getExpRep(search) wasn't sorting, is now (wow that took a while - put into a List and used Collections.sort), filters seem to be working - i have to write tests for sure later
+* first catfilter solution was calling CatsController.identifyCat on every transaction - yea that takes way too long - but................eh it makes my code simpler and it shouldn't have to handle that much that often, i'll put it on the future list
+* committing! deleting original Display and TransactionTableHolder
+* display page layout - debated having a tableholder state, set to TransactionTableHolder or SummaryTableHolder - doesn't work, doesn't keep it updated, can't do that, using display none and inlineblock toggle instead
+* decided it doesn't actually make sense to search -> summary, moving search back onto transactiontableholder
+* starting summary table, styling and generating the vals and stuff-
+## 1/19
+*'m gonna start rn with just using the searched data, going to have to change later to accom for "marked" instead.. (switching between summary and details, debated but still gonna use a set state)
+* 
