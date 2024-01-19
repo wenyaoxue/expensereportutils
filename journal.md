@@ -145,6 +145,54 @@
   * little bug, sometimes the form fields from search aren't filled out, presumably because they haven't been set by the time getsearch has finished (ye getsearch then getcats finishes, doesn't show, other way does show), but the state of which to select isn't updating fast enough to select at the end of getcats, and I don't want to call it too much - wait, calling setCats later thinks catfilter is ""?? - not the best, redundant and not intuitive but when catfilter changes, document.queryselect the dropdown and set the value
   * sometimes the first LASTUSED changes??? later, can't recreate it rn
 * back to summary - incredible! calculations for amounts per cat per mo and total lookin good, checked generally, + i've got the simplest avg/mo - my 2023 google sheets now has a couple of numbers that i directly edited so I can test - just leaving a record of the fact that i did that here
-## 1/19
-*'m gonna start rn with just using the searched data, going to have to change later to accom for "marked" instead.. (switching between summary and details, debated but still gonna use a set state)
-* 
+
+## 1/19 00-00:30
+* tryna get a good vid, + organized the next features. listed below, for at this point (all still at this scale - no database/server)
+* SIMPLE FUNC
+  * other summary tables
+  * negative sorts
+  * time filter
+  * interactive
+  * charts
+  * multiyear
+  * summary more specific calcs, count/discount, based on days
+  * edit summary
+  * edit exprep - gonna be big
+  * tithe check graph
+  * 401k
+  * budget based on number of counted days in selected months
+  * other visual things that i had on Google sheets - color scale
+* ADVANCED FUNC
+  * upload (calls convert) + receipt match + check for emoji updates (with a (?) for how that works)
+  * multifilter
+  * ordered sort
+  * multicategory sets
+  * category priority for multimatch?
+  * edit/review and count/discount - mark, filter, check/btn for all
+  * export - copy paste, pdf
+  * catfilter more efficient
+  * encode/hide, or opt when export
+* PROFESSIONAL
+  * css
+  * freeze table header
+  * feedback/error check: search name (can’t be ?), category name, category multimatch, cat not other tot+ tot-
+  * block out unused paid/received
+  * tests
+  * loading search not predictable???
+## 1/19 1h15min
+* working on color scale - rank, set backgroundcolor
+* first try: scale rgb altogether, up and down - gets too dark and indistinguishable
+```
+    function scaleColPart(val, i) {
+        return parseInt(val/255 * 1/(i+1) * 200 + 55) 
+    }
+        let color1Scale = []
+        for (let i = 0; i < 12; i++) {
+            let scaleRgb = {"r": scaleColPart(selectedColor1.r,i),"g": scaleColPart(selectedColor1.g,i),"b": scaleColPart(selectedColor1.b,i)}
+            console.log("color scale", scaleRgb)
+            color1Scale.push(rgbToHex(scaleRgb.r,scaleRgb.g,scaleRgb.b))
+        }
+```
+* second try: scale from color1 to color2
+
+* gotta also make sure it changes with colorchoose 
