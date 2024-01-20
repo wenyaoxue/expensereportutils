@@ -179,7 +179,7 @@
   * block out unused paid/received
   * tests
   * loading search not predictable???
-## 1/19 4h15min
+## 1/19 5h
 * working on color scale - rank, query select and set backgroundcolor+textcolor, scale (on hover, select <3), + called when colorchoose (uses color states - since not classes)
   * first try: scale rgb altogether, up and down - gets too dark and indistinguishable
   ```
@@ -209,4 +209,6 @@
   ```
   * and some adjustments so it doesn't match exactly, so the other colors can be the styled colors + stays in range
 * changed: color range to be represented by a css rule for a class, moving to header (functions, style), then in summarytable just apply class once, not color, and select based on class, not color
-* incorporating other tables (transactions + by day), moving stuff into functions/states - tried but it seems quite complicated so i undid everything and am gonna take a break now
+* incorporating other tables (transactions + by day), moving stuff into functions/states, element ids to select and change innerHTML, tabletype var - tricky
+  * kinda fragile - wait for SUMMARIES and CATDATA to be set but then only do once
+* 
