@@ -211,4 +211,26 @@
 * changed: color range to be represented by a css rule for a class, moving to header (functions, style), then in summarytable just apply class once, not color, and select based on class, not color
 * incorporating other tables (transactions + by day), moving stuff into functions/states, element ids to select and change innerHTML, tabletype var - tricky
   * kinda fragile - wait for SUMMARIES and CATDATA to be set but then only do once
-* 
+## 1/20 6h30min
+* onClick reading and setting state doesn't seem to work. gonna do buttons
+* moving table setting into functions - on load creates all cells (and moved as early as possible), on SUMMARIES and CATDATA set fills all values, applycolorscale when u fill a row
+* all 4 table types lookin good, format for which type
+* selectedScale - doesn't work on first refresh, but if i save and then go again it works,, function is being established before the category cells have been created, and the document.querySelector is not updating at the time i think? weird. moving applyLegend to after categoriesrows are added, I think that will fix it -- so there is stuff in functions that doesn't work dynamically,, idk, jk that didn't fix it, i see - it's because catdata length was being sent as a param - still!!! not working!!!! ... only works if I call applyLegend in the useEffect where CATDATA has been set. annoying. creating functions calculates stuff once, not .. eh whatever. 4 tables done
+* per day tables divide by 29, 30, or 31 (dep on month) - not just 31 across the board
+* tryna update a state in a function - same problem as that paragraph i think,,,, oy
+* checkbox for which months to average looks good, don't wanna check thoroughly - should write tests later
+* thinking about how to make it interactive, tr can't have a border so I thought about and worked through inserting surrounding empty rows (learned u can do ele.remove(), <td colspan=15, insertAdjacentElement) - decided instead to add selectedCell 
+* same prob as above: recalcAvgs (which is linked to elements (row 2) before SUMMARIES is set), which is calling getRowVals, which is using SUMMARIES, doesn't work on first load (SUMMARIES is empty). on a save and refresh, it's fine. going to link recalcAvgs to the elements after SUMMARIES is set. yea that worked. nice
+* note: opt parameter, when send don't need to say paramname = whatever, u can just send 1 more param
+* note having `[somevals].forEach()` is tricky idk why, can't put smt before it
+* hovering selects: a label => row/col, inner: row and col
+* same prob as above: selectMonth (which is linked to elements (row1 and row2) before CATDATA is set is using CATDATA, doesn't work on first load (CATDATA is empty). on a save and refresh, it's fine. going to link selectMonth to the elements after CATDATA is set. a couple more places this time
+* working on budget - cells contentEditable, onKeyDown only allow nonnumbers, default values just above avg/mo, check budget (whenever you type) and add class, note currently have to focus only on amount total table, note negatives messy, note gotta add a post/get, + add a bunch of charts and i'll have finished everything in google sheets besides edit exprep
+```
+            ocat.onkeydown = e => {
+                let allow = (e.key >= '0' && e.key <= '9') || e.key === "ArrowLeft" || e.key === "ArrowRight" || e.key === "Backspace" || e.key === "Delete"
+                if (!allow)
+                    e.preventDefault()
+            }
+            ocat.contentEditable="true"
+```
