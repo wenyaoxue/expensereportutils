@@ -234,3 +234,9 @@
             }
             ocat.contentEditable="true"
 ```
+## 1/21 4h10min
+* working on budget - backend file structure, default when filling row, button selects posts budget values, be path/fe req, keep when table change, post
+* so to reiterate .... if a function uses a state, the function needs to be reassigned everytime the state val changes. don't rlly get it but ok
+* thinking about and trying to split summarytableholder into more components; appending a component in js doesn't seem to be a good idea - gonna try and rework into map? oy. so instead of adding/updating basically all elements dynamically, i'm gonna make 1000 more components - this'll take awhile but if i don't, there's just too much code, too much stuff to have to change on each thing, and i think this might keep me from having to reassign stuff? if the props are passed i think it's supposed to auto re-render
+* components => warnings, i found this: `suppressContentEditableWarning={true}` - fantastic
+* gotta take a break - come back with ranking
