@@ -240,3 +240,10 @@
 * thinking about and trying to split summarytableholder into more components; appending a component in js doesn't seem to be a good idea - gonna try and rework into map? oy. so instead of adding/updating basically all elements dynamically, i'm gonna make 1000 more components - this'll take awhile but if i don't, there's just too much code, too much stuff to have to change on each thing, and i think this might keep me from having to reassign stuff? if the props are passed i think it's supposed to auto re-render
 * components => warnings, i found this: `suppressContentEditableWarning={true}` - fantastic
 * gotta take a break - come back with ranking
+## 1/22 3h5min
+* working on ranking - did some unnecessary messing with it
+* averages - idk trying to figure a way that makes sense -complic cuz idk when things update, ...rerender, eh whatever
+* nervous bc idk how often each component rerenders ..........................????
+* budget class - not done, very confusing
+* not continuously calling whatever's inside {}, obviously but idk. it's true it was simpler to have variables to reference for every element without components
+* thought about abandoning the past 2 days work and just going back to noncomponents --------- idk, it's very enticing
