@@ -234,16 +234,32 @@
             }
             ocat.contentEditable="true"
 ```
-## 1/21 4h10min
+## 1/22 or 23, not sure 4h10min
 * working on budget - backend file structure, default when filling row, button selects posts budget values, be path/fe req, keep when table change, post
 * so to reiterate .... if a function uses a state, the function needs to be reassigned everytime the state val changes. don't rlly get it but ok
 * thinking about and trying to split summarytableholder into more components; appending a component in js doesn't seem to be a good idea - gonna try and rework into map? oy. so instead of adding/updating basically all elements dynamically, i'm gonna make 1000 more components - this'll take awhile but if i don't, there's just too much code, too much stuff to have to change on each thing, and i think this might keep me from having to reassign stuff? if the props are passed i think it's supposed to auto re-render
 * components => warnings, i found this: `suppressContentEditableWarning={true}` - fantastic
 * gotta take a break - come back with ranking
-## 1/22 3h5min
+## 1/24 3h5min
 * working on ranking - did some unnecessary messing with it
 * averages - idk trying to figure a way that makes sense -complic cuz idk when things update, ...rerender, eh whatever
 * nervous bc idk how often each component rerenders ..........................????
 * budget class - not done, very confusing
 * not continuously calling whatever's inside {}, obviously but idk. it's true it was simpler to have variables to reference for every element without components
 * thought about abandoning the past 2 days work and just going back to noncomponents --------- idk, it's very enticing
+## 1/26 4h40m
+* creating a new exprep file, minor structure tweak, + now we have multiple years [website](https://www.convertcsv.com/csv-to-json.htm) again
+* transaction table broken - had an empty amount cell that saved as null - no gud - smh okay
+* have to account for multi years - not directly sorting by month and hardcoded year
+  * started working on stuff, oh geez i don't want another branch of big changes. i think for sure i'm gonna use this new branch of summarytableholder bc it's nice to not have to add and then fill, and then fill again on each change. gonna commit to the componentifying of the summarytableholder
+  * summarytable needs dynamic columns may be <> 12, changing summaries structure - idk why printing as things are added to it isn't working? logs the newest val withe everything in it already somehow - ykno what i'm just gonna take it as some asyncness and that it'll be hard to tell exactly how it's going by logging. sucks. also not sure how to structure summaries - thinking thru / trying some diff options... decision paralysis ... any change is gonna be so widespread. darn
+    * as i try to apply - working through some kinks of componentified, elements are not rendered immediately (ie by the time useeffect is called) - urgh, moving cells into components, then select should work?
+    * i guess useeffect for default value is not so good, gonna use a state ugh
+    * got some errors with select/deselect before fully loaded..urgh
+    * tried to figure out some number discrepancies, oy, didn't figure it out (some marking r instead of p but idk) but it looks okay enough...idk
+    * summary categorizing and details categorizing is not the same.. argh
+    * even now, with this defined in the row component: - assigning selectThisRow(document.querySelector...) not working on first load :( sucky idk why. guess i'll just put it directly in the return, instead of adding to each element on render? lame
+    * fixing average
+  * moving some props into a component to import thru functions like apireqs (MonthUtil)
+  * change search datepicker (+ quick if change custom start to be after end, end gets changed too)
+  * change scale
