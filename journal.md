@@ -262,4 +262,16 @@
     * fixing average
   * moving some props into a component to import thru functions like apireqs (MonthUtil)
   * change search datepicker (+ quick if change custom start to be after end, end gets changed too)
-  * change scale
+  * need to change scale - dynamically created
+## 1/30 3h20min
+* reviewing selenium for tests
+* gotta finish date filter - select all or custom (already done) or month
+  * year/month options come from transaction table limits, and are synced, and changing one doesn't change the other if possible
+  * committing, deleting other dateselect
+  * when loading, if all default to all, if exact month, default to DstMoPick with loaded value
+    * still struggling with this first load problem - nah, this is just because firstmo and lastmo are being set, gotta wait for them to pass certain checks - making a function to useEffect
+    * problem with hardcoded default values - if it's the same setting (all custom or month), it's applying to the form overrides the getsearch applying to the form
+      * i have a var that holds a component, and when resetting that var (same component) it doesn't call that component's useEffect(func, [])?? so i added the variables that are changing to the useeffect, idk
+    * using a few useEffects - sucks because not so clear and might happen a lot
+  * switch to type month, try and be relatively close - first pass algo looks good, + check if in range (ie custom may be out of range)
+  * search date adjusted for multiyear done
