@@ -275,3 +275,5 @@
     * using a few useEffects - sucks because not so clear and might happen a lot
   * switch to type month, try and be relatively close - first pass algo looks good, + check if in range (ie custom may be out of range)
   * search date adjusted for multiyear done
+## 2/3 20min
+* started a transaction form to save a new transaction, learned of property tabindex
