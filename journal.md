@@ -277,3 +277,7 @@
   * search date adjusted for multiyear done
 ## 2/3 20min
 * started a transaction form to save a new transaction, learned of property tabindex
+# 2/8 3h20min
+* working on the transaction form, controlling/validating input, trying to decide how it would work, eh
+* got a valid object to post, could be better, can't believe that took so long
+* couldn't get element.click() to work or other trigger events
