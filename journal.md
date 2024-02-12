@@ -283,3 +283,29 @@
 * couldn't get element.click() to work or other trigger events
 ## 2/10 10min
 * starting the backend post
+## 2/11 4h10min
+* note: posted object variable names should be lowercase - see [here](https://stackoverflow.com/questions/38935912/requestbody-is-getting-null-values)
+* working on post:
+  * finished sending and adding to file
+  * setting up on post =>
+    * update data file
+      * note i already had: search change => reload
+      * note adding post => setUpdSearch => reload table shown on post (doesn't reload search dropdown, but can come back to this - simple enough) + by the time u switch to summary it'll be updated - not doing this
+      * i could on post => set a variable that's shared with search, and search useeffect to reset its search... but i don't want to, i think - if u have a search - u don't want to mess it up just bc u post, yea let's not
+      * just gonna use a variable to tell search form to update its dropdowns
+        * update if startdate and enddate are exact beginning and end of month, set to dropdown: IF inside FIRSMOLASTMO
+        * dropdown updating on post, i think it's good? things are quite complicated - a lot to look through. not being so thorough with checks atm
+        * forcing summary update on every new transaction
+* added some more validations for new transactions
+* all -> custom, not default filling the vals - daterangepick useeffect setting vals normalizes with 0s - search seems to be working fine, so. local fix looks good
+* adding delete link
+  * accidentally deleted entire file, very great smh
+  * gonna use this opportunity to check how things go without a file / very few transactions
+    * search set
+    * added a placeholder with a starter message on summary
+    * search change default year to this year
+    * also this was happening before: select month > change month > changes to custom, small fix was using 2023 instead of var
+  * work through delete with very few transactions
+    * file update
+    * also previously overlooked: update table if ur in all date selection (update search all)
+    * updated my previous variable (to update summary and search (which updates table if necessary)) to also handle deletes, working on getting search updates after delete
