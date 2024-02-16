@@ -309,3 +309,15 @@
     * file update
     * also previously overlooked: update table if ur in all date selection (update search all)
     * updated my previous variable (to update summary and search (which updates table if necessary)) to also handle deletes, working on getting search updates after delete
+## 2/15 2h45min
+* finished delete updates view - simple
+* got my data back - simple
+* categories: show ambiguous or undefined transactions
+  * adjusted formula and default set just a little - the big change will be adding more to the backend file, priority or something (also causing get exprep by search to not match totally)
+* added other row to summary table - moderately simple
+* front end export - before edit, just in case - jk, thought about it and nah, i'll just keep a copy in the back, I don't want to have to maintain different formats
+* setting the stage to work on edit - that's also part of the categorizing thing, want to be able to do things with the data shown
+  * totally gonna break these rows into components later, maybe the same as the form? as the table in the cat manager?
+  * oy gotta move bold, categorize, color, into the transaction component........or maybe just wait until save
+  * trying to make the cells bigger
+  * just... thinking, decision paralysis
