@@ -321,3 +321,16 @@
   * oy gotta move bold, categorize, color, into the transaction component........or maybe just wait until save
   * trying to make the cells bigger
   * just... thinking, decision paralysis
+## 2/17 10min
+* putting some stuff in functions - contentEditable keydown
+## 2/17 5h10min
+* everything below: table and form
+* cleaning up key controlling, + controlling note, updating bold and cat (i wish i could update sooner, but if it overwrites while i'm typing it moves the cursor around - got cat sooner, bold when done - i guess that's fine)
+* moving validates to util, combining functions
+* delete not working - got it, accommodate for long
+* made another copy of data lol just in case, in a different folder
+* control date key down
+* adding keyups that validate and adding validate to normalize! instead of waiting for click save or update
+* control amount key down, normalize amount
+* control unk, control dtls, normalize dtls
+* note rn - things only get normalized if u press esc or tab - for date and time it's fine bc it's just formatting, but details normalize makes sure old data is there
