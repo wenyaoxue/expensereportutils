@@ -334,7 +334,7 @@
 * control amount key down, normalize amount
 * control unk, control dtls, normalize dtls
 * note rn - things only get normalized if u press esc or tab - for date and time it's fine bc it's just formatting, but details normalize makes sure old data is there
-## 2/24 3h45min
+## 2/24 5h15min
 * delete issue sometimes on month not existing? can't replicate
 * started a normalize.py - made sure time was correct format (2 digit hour)
 * on update one row -
@@ -347,3 +347,10 @@
 * added a red color while deleting
 * continue normalize.py - made sure to add date to details if not there already
 * arrow up and down to different transaction when editing- nice! using ele.focus()
+* realized I wasn't allowing capital letters, fixed (uh except for some reason this allows enter, now blocked explicitly
+* working on ambiguous transactions display + note update
+  * put in relevant parts of transaction styling/controlling
+* realized sometimes uncolor if edited not working properly - should be the same but showing as edited???
+  * space can be charcode 32 or charcode 160 - terrible news and so ridiculous and why oh why oh why, don't know how to replicate the issue - so sucky
+  * wrote my own freaking string comparison where if the characters are different but one's 32 and the other's 160 then it doesn't count as different - so so so so stupid
+* disallowed ctrl+b on note: can override the look of the innerHTML
