@@ -334,3 +334,16 @@
 * control amount key down, normalize amount
 * control unk, control dtls, normalize dtls
 * note rn - things only get normalized if u press esc or tab - for date and time it's fine bc it's just formatting, but details normalize makes sure old data is there
+## 2/24 3h45min
+* delete issue sometimes on month not existing? can't replicate
+* started a normalize.py - made sure time was correct format (2 digit hour)
+* on update one row -
+  * active only if things have changed - tried some different ways
+  * normalize details, incase you didn't tab from that cell
+  * send old and new to backend
+  * backend updates file - looks good I think (note / is becoming \/ - whatever for now
+  * reload when updated (confusing - data gets reset, but I don't think the Transaction components do?? useEffect on transaction not triggered, color/changed not reset, why? - workaround for now: setdata to empty, then the setdata with new response data will for sure make new components, i guess. much less elegant. trying to figure it out)
+    * looks like the colors and states and even values(since note is a state) are just associated with whichever position is there. so weird. like if it's deleted (whether posted or not), the stuff stays the same for whatever one takes its spot --- such weird behavior. gonna keep my weird workaround, i guess - AND i have to use it for delete too!! sucky. i guess i could do a document.remove(ele) instead of ... whatever moving on. and it's faster for a smaller search, obviously. it's fine i guess
+* added a red color while deleting
+* continue normalize.py - made sure to add date to details if not there already
+* arrow up and down to different transaction when editing- nice! using ele.focus()
