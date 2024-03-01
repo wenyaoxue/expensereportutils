@@ -354,3 +354,22 @@
   * space can be charcode 32 or charcode 160 - terrible news and so ridiculous and why oh why oh why, don't know how to replicate the issue - so sucky
   * wrote my own freaking string comparison where if the characters are different but one's 32 and the other's 160 then it doesn't count as different - so so so so stupid
 * disallowed ctrl+b on note: can override the look of the innerHTML
+## 2/29 3h20min
+* budget
+  * totally forgot what I had been doing here, how I set it up
+  * calculations up top, sent more directly to the bottom where it should be displayed
+  * fixed post quirk: cats with spaces weren't posting
+  * /day calculated based on average number of days in current exprep (sum of the days in all the months represented)
+  * cleaning update budget class functions
+  * add net budgets (sum of +, -cat budgets)
+  * rearranging budget column
+  * post
+    * doesn't just send values, it adjusts for tabletype /day or not
+    * visual feedback while processing, moved button
+    * after, get cats and update variable (so after update change tabletype gets updated values)
+      * another one of those have to set empty first - this time, setMoBudgs empty, also moving budgcell to its own component i guess, and... still using a useeffect to reset the class. idk these variables man (setdata to empty, then the setdata with new response data will for sure make new components, i guess)
+  * only enable post if edited (check when keydown, set false when post, set false when change tabletype)
+  * as you edit
+    * change the nets (also part of set edited)
+    * enabled tab
+  * some negative updates: budget class different check, nets logical
