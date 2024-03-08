@@ -373,3 +373,16 @@
     * change the nets (also part of set edited)
     * enabled tab
   * some negative updates: budget class different check, nets logical
+## 3/7 4h45min
+* 30min (+10 min to generalize, comment) side quest: compare 2 json files, to see what the differences are (ie atts can be in different order but see if objects are the same
+* 10min sidequest - turn json list to json object - not gonna apply this tho for a while prob
+* 45min delete and update -> icons, styled - update only appears if edited and valid - "updatable"
+* default budget (if any category budget is empty (as they are when a new cat set is posted))
+  * move some calculations, at row level round average
+  * thinking about how to set nets / enable post - use effect to call updateBudgEdited - if anything is empty (check everytime moBudgTot and tabletype change - idk but without tabletype it doesn't work)
+    * make sure blank is for blank and NOTLOADED for not loaded
+    * still tough for the first load, values haven't finished rendering yet i guess - settimeout to update again in 1 sec - looks good
+  * round based on tabletype
+  * sometimes budget is enabled when it shouldn't be.................. eh not that big a deal
+* learning / skimming solutions on how to upload a file (eg statement) - using https://refine.dev/blog/how-to-import-csv/#live-codesandbox-example
+* finished a basic chase statement uploader - at this point, converts (no special cleaning) and displays (no add/delete/etc)
