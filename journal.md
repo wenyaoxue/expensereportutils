@@ -386,3 +386,11 @@
   * sometimes budget is enabled when it shouldn't be.................. eh not that big a deal
 * learning / skimming solutions on how to upload a file (eg statement) - using https://refine.dev/blog/how-to-import-csv/#live-codesandbox-example
 * finished a basic chase statement uploader - at this point, converts (no special cleaning) and displays (no add/delete/etc)
+## 3/10 4h40min
+* chase import note cleaning - set up backend note cleaner json - things in note to remove, to check for to not add a duplicate transaction, and to lower/upper case
+* a return in a foreach is not good
+* generalizing TransactionForm to be used by my imported transactions - prepopulate & calc category, don't want to pre-validate - bc when things update after updating one, it makes it tough because it validates before the innerHTMLs are changed
+  * confirmed posting one by one seems fine
+  * on add, remove from preview array
+* spent a lot of time just updating my own data, tried to check, looks fine but tough to verify
+* just got a simple convert for discover, chase, and venmo - as in convert to a postable transaction (apparently - haven't tested edge cases), nothing fancy yet
