@@ -394,3 +394,18 @@
   * on add, remove from preview array
 * spent a lot of time just updating my own data, tried to check, looks fine but tough to verify
 * just got a simple convert for discover, chase, and venmo - as in convert to a postable transaction (apparently - haven't tested edge cases), nothing fancy yet
+## 3/23 3h
+* added (finished functionally) a tithe calculator - created when summaries is created in summariestableholder, making a chart sized by amount %
+  * note text that is more than a given height makes vertical alignment weird, fixed using overflow: hidden
+* dynamic color scaling - on summaries/dstmos load, reset color scale classes based on number of months loaded
+* working on a summary chart - multi bar graph, alternative for viewing by table
+## 3/24 2h 42min
+* looking for bar charts to use, got working:
+  * npm i react-chartjs-2 chart.js
+  * https://www.geeksforgeeks.org/how-to-implement-barchart-in-reactjs/ / https://codesandbox.io/p/sandbox/react-chartjs-2-bar-with-groups-and-patterns-1md7q?file=%2Fsrc%2FBarChart.js%3A1%2C1-129%2C1 (but without the patterns, and without the tooltip) + prateek's answer from https://stackoverflow.com/questions/67727603/error-category-is-not-a-registered-scale
+  * grouped bar chart by creating from summaries and dstmos
+  * doesn't look so good though
+* adding pie chart to tr table holder https://react-chartjs-2.js.org/examples/pie-chart/
+  * added percentage with this extremely complicated tooltip https://medium.com/@anil.karki93/customizing-react-chartjs-2-tooltip-scrollable-20a2c1e37af9
+* added the totals calculations - paid, received net, total and per day
+  * i now officially have everything i had on google sheets!!!!!!!!! woohooooo
