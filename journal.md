@@ -409,7 +409,7 @@
   * added percentage with this extremely complicated tooltip https://medium.com/@anil.karki93/customizing-react-chartjs-2-tooltip-scrollable-20a2c1e37af9
 * added the totals calculations - paid, received net, total and per day
   * i now officially have everything i had on google sheets!!!!!!!!! woohooooo
-## 4/13 6hr
+## 4/13 6hr + 1hr17min + 10min
 * sorts: asc and desc; search val now changed (change how it's sent by fe and how it sorts results from be, how search form reflects, how setDataFromExprepsearchResponse checks sort to assign color)
 * deleted all non-error console.logs :O
 * thinking of how to do select and do an action to transactions..... too much for now
@@ -431,3 +431,16 @@
 * savings chart and tithes chart - checks for negatives, max bar is full width; is okay with no data
 * changed selectedcell css to scale(1.25) instead of rotateZ(10deg) + center text (for table, so text stays visible)
 * wasted some time playing with my progress
+* trying to do a save all situation - fe async is complicated, added a be path for a list of transactions to save + remove all from transactions preview so resetting wouldn't overlap either
+  * doesn't look great but it works!
+  * note i included in the timer me importing my data, stopping the timer as i edit notes
+* about 10min trying to figure out how to make the last element take up the remaining space, so it fits - couldn't figure it out
+ ## NEXT UP
+  * duplicate checker, search by ...
+  * search filter unedited
+  * save all updates
+  * number of transactions on detailspage
+  * don't scroll on edit/delete
+  * redundant categorisation
+  * mo selection stored
+  * upload backed up json thru fe
