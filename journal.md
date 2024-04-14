@@ -409,3 +409,25 @@
   * added percentage with this extremely complicated tooltip https://medium.com/@anil.karki93/customizing-react-chartjs-2-tooltip-scrollable-20a2c1e37af9
 * added the totals calculations - paid, received net, total and per day
   * i now officially have everything i had on google sheets!!!!!!!!! woohooooo
+## 4/13 6hr
+* sorts: asc and desc; search val now changed (change how it's sent by fe and how it sorts results from be, how search form reflects, how setDataFromExprepsearchResponse checks sort to assign color)
+* deleted all non-error console.logs :O
+* thinking of how to do select and do an action to transactions..... too much for now
+* savings chart, totRcvd and totPaid stacked bars, summary table select/deselect dates updates dstMos for tithe and savings charts
+* thinking about how to organize summary and selecting certain months
+  * SummaryMoController, select months to show data for
+  * changed dstmo to store as yr-mo instead of yr/mo so i can use as a classname more cleanly, changed everywhere. thought of using utils - not worth
+  * [unselectable](https://stackoverflow.com/questions/69430/is-there-a-way-to-make-text-unselectable-on-an-html-page) to make my own buttons without worrying about the text selection messing with clicks
+  * general filter for all things !!! dstMo as the controlling variable!! like widgets. very neat
+    * removed table row 2 - select row to include in average
+    * table value hover select, adjust for no more row 2
+    * updating average - no more extra check!
+    * savings chart to update width %s
+    * tithe chart to check dstmos
+    * no transactions message update
+    * select all months, no months, year, last x months
+    * summary table width fixing, handled by sumtabler1
+    * hover to select months - added class, was gonna add ids to select by ids but then... why not queryselectorall .... so ez. 
+* savings chart and tithes chart - checks for negatives, max bar is full width; is okay with no data
+* changed selectedcell css to scale(1.25) instead of rotateZ(10deg) + center text (for table, so text stays visible)
+* wasted some time playing with my progress
