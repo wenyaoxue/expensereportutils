@@ -449,7 +449,78 @@
   * adding id - and since i have my import backup! just had to delete everything and import backup and the save difference thing applied!
   * delete selected done - paths for delete all, delete list<id>, don't call if none selected
   * update selected done - right now lets u do it even if u didn't make any updates
- ## NEXT UP
+## 4/21 13:20
+* search functionality
+  * time
+  * reviewed + added a visual cue to the note (opacity)
+  * updated unknown to have all options
+  * discount/count, + added discount/count as an action, + a visual cue
+  * note
+* adjusting some select and act stuff - deciding not to have any individual actions. here's the code in case i change my mind, it's a cell of Transaction
+```
+{imported ? "" : 
+        <td style={{backgroundColor:"white", color:"red", border:"0px", width: "25px"}}>
+            <a style={{display:"inline-block"}} onClick={(e)=>{
+                let transaction =  {
+                    "date": tr.Date,
+                    "time": tr.Time,  
+                    "type": tr.Type,
+                    "amount": tr.Amount,
+                    "note": tr.Note,
+                    "unknown": tr.Unknown,
+                    "detailsOn": tr["Details on"],
+                    "reviewed": tr.Reviewed,
+                    "discount": tr.Discount
+                }
+                
+                for (let i = 0; i < 8; i++) {
+                    getIdEle(ids[i]).classList.remove(colClass)
+                    getIdEle(ids[i]).style.backgroundColor = "red"
+                    getIdEle(ids[i]).style.color = "white"
+                }
+
+                apireqs.deleteTransaction(transaction)
+                setChangedTrsxn({"Action":"-","tr":transaction})
+            }}>
+                <img src="deleteicon.png" style={{width:"25px"}}></img>
+            </a>
+            <a style={{display:"inline-block"}} onClick={(e)=>{
+                getIdEle(ids[7]).innerText = CellEditUtil.normalizeDetails(getIdText(ids[7]), tr["Details on"])
+                if ((getIdText(ids[7])) === tr["Details on"]) {
+                    getIdEle(ids[7]).classList.add(colClass)
+                    setUpdatable(checkTransactionValidUpdate())
+                }
+                else {
+                    e.currentTarget.classList.remove(colClass)
+                    CellEditUtil.validateDtls(ids[7])
+                    setUpdatable(true)
+                }
+                if (checkTransactionValidUpdate()) {
+                    
+                    for (let i = 0; i < 8; i++)
+                        getIdEle(ids[i]).classList.remove(colClass)
+                    let save = CellEditUtil.validateAll(
+                        ids[0], ids[1], ids[2], ids[3], ids[5], ids[6], ids[7])
+                    
+                    if (save) {
+                        apireqs.updateTransaction(getGivenTransaction(), getCurrentTransaction()).then((res)=>{
+                            if(res.data) {
+                                setUpdsearch(!updsearch)
+                            } else {
+                                console.log("update failed")
+                            }
+                        })
+                    }
+                }
+            }}
+            >
+                <img src="updateicon.png" style={{width:"25px", display: Updatable ? "inline-block":"none"}}></img>
+            </a>
+        </td>
+        }
+```
+* 
+## NEXT UP
   * duplicate checker, search by ...
   * search for unreviewed
   * don't reload on post/delete - need to also update search; scroll to spot; other changes - maybe a notification
@@ -461,3 +532,7 @@
   * end to end what needs to be updated when a delete/update happens
   * show/hide search and chart are super slow???
   * user sizable
+  * visualize the reviewed and discount
+  * explanations of the search
+  * explanations of the transaction format
+  * date year
