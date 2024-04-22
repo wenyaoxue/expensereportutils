@@ -449,14 +449,14 @@
   * adding id - and since i have my import backup! just had to delete everything and import backup and the save difference thing applied!
   * delete selected done - paths for delete all, delete list<id>, don't call if none selected
   * update selected done - right now lets u do it even if u didn't make any updates
-## 4/21 13:20
+## 4/21 7h30m
 * search functionality
   * time
   * reviewed + added a visual cue to the note (opacity)
   * updated unknown to have all options
   * discount/count, + added discount/count as an action, + a visual cue
   * note
-* adjusting some select and act stuff - deciding not to have any individual actions. here's the code in case i change my mind, it's a cell of Transaction
+* adjusting/thinking about some select and act stuff (visuals, controls) - deciding not to have any individual actions. here's the code in case i change my mind, it's a cell of Transaction
 ```
 {imported ? "" : 
         <td style={{backgroundColor:"white", color:"red", border:"0px", width: "25px"}}>
@@ -519,20 +519,23 @@
         </td>
         }
 ```
-* 
+* action images, check if makes sense to do action, don't allow if updates
+  * keeping track of num selected and num edited, can't act on select unless 0 edited, if an action will affect 0 don't show
+  * lots of parts
+  * plus ctrl+s ctrl+z on the tr table
 ## NEXT UP
   * duplicate checker, search by ...
-  * search for unreviewed
   * don't reload on post/delete - need to also update search; scroll to spot; other changes - maybe a notification
   * redundant categorisation
   * note cleaner edit / apply to already saved - update all
   * api wait, error messages
-  * are u sure u want to update if none are updated
 
-  * end to end what needs to be updated when a delete/update happens
+  * end to end what needs to be updated when a delete/update happens - eg make sure summary updates
+  * search year
+
+## FUTURE FUTURE
   * show/hide search and chart are super slow???
   * user sizable
-  * visualize the reviewed and discount
   * explanations of the search
   * explanations of the transaction format
-  * date year
+  * hover over action items
