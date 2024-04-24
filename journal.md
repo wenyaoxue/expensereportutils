@@ -523,6 +523,8 @@
   * keeping track of num selected and num edited, can't act on select unless 0 edited, if an action will affect 0 don't show
   * lots of parts
   * plus ctrl+s ctrl+z on the tr table
+## 4/23 2 sec
+* note no delete all, discount all - at least not while all is checking against search results instead of actual whole file. man
 ## NEXT UP
   * duplicate checker, search by ...
   * don't reload on post/delete - need to also update search; scroll to spot; other changes - maybe a notification
