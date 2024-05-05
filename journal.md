@@ -525,6 +525,15 @@
   * plus ctrl+s ctrl+z on the tr table
 ## 4/23 2 sec
 * note no delete all, discount all - at least not while all is checking against search results instead of actual whole file. man
+## 5/5 2hr
+* 10min starting to fix ids - can't just check length, may have repeats if you delete then add
+* 5min update received get amount issue
+* 1h45m
+  * tithe chart more readable
+  * summary shows discounted (outliers) separately
+  * got (search from (transaction form)) working decently
+ 
+  * 
 ## NEXT UP
   * duplicate checker, search by ...
   * don't reload on post/delete - need to also update search; scroll to spot; other changes - maybe a notification
@@ -534,6 +543,7 @@
 
   * end to end what needs to be updated when a delete/update happens - eg make sure summary updates
   * search year
+* percentages on summary
 
 ## FUTURE FUTURE
   * show/hide search and chart are super slow???
@@ -541,3 +551,4 @@
   * explanations of the search
   * explanations of the transaction format
   * hover over action items
+  * ids going back, based on array - no good
