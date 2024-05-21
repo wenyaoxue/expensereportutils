@@ -532,23 +532,46 @@
   * tithe chart more readable
   * summary shows discounted (outliers) separately
   * got (search from (transaction form)) working decently
- 
-  * 
-## NEXT UP
+## 5/20 3h30m
+* got (search from (double clicking (summary table cell)) working decently
+* tinkered with some set form vals to new search - dates, note,
+  * added search distinct month includes search whole year
+* using setHoveredMo:
+  * mo controller can be hovered
+  * hover charts also selects months
+  * trying to figure out what de/selectMonth is for
+    * added classes so rows 1-4 get selected with hoveredMo
+    * unfortunately hard to merge? unify? because it's a timing issue - deselecting others. also why same row different month hover is off..... i will get back to this i think
+* moved date with suffix to monthutil
+* got (search from (double clicking (following)) working decently
+  * outlierchart cell (including net)
+  * savings cell (just month)
+  * titheChart cell
+* color ranks scaled by number of months out of all
+* changed default search to be current month (front end and back end)
+* thinking of things to do next
+
+## FUTURE FUTURE
+* rank the savings
+* figure out budget
+* figure out notecleaner
+* figure out colors as add and remove months
+* mass note edit
+* exportable reports
+* categories
+* outlier chart only uses months??????????? don't know what i meant
   * duplicate checker, search by ...
   * don't reload on post/delete - need to also update search; scroll to spot; other changes - maybe a notification
   * redundant categorisation
   * note cleaner edit / apply to already saved - update all
   * api wait, error messages
-
   * end to end what needs to be updated when a delete/update happens - eg make sure summary updates
-  * search year
 * percentages on summary
-
-## FUTURE FUTURE
   * show/hide search and chart are super slow???
   * user sizable
   * explanations of the search
   * explanations of the transaction format
   * hover over action items
   * ids going back, based on array - no good
+  * hover: make sure actual hover is on top
+  * print, export stats
