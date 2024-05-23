@@ -572,7 +572,7 @@
   * cat label
   * month label
 ## FUTURE FUTURE
-* test minimized summary widgets esp as dstmos changes, may need to force expand? not sure
+* test minimized summary widgets esp as dstmos changes, may need to force expand? not sure, also widths need to be controlled, theyre getting small
 * last month on savings chart is hardcoded
 * hover by value legend not great, not hovering all, + how to choose which categories to include
 * rank the savings
