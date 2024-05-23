@@ -550,15 +550,40 @@
 * color ranks scaled by number of months out of all
 * changed default search to be current month (front end and back end)
 * thinking of things to do next
-
+## 05/22 5h30m
+* click to export json (ie delivers be data to fe user)
+* fixed some notecleaner things - case first then replace
+* fixed some outlier chart things - only includes dstmo, not all months; net was miscalculated before
+* thinking of things to do - lot of these will take too long
+* scale all cats, instead of each cat separately. got close to something, started all over, worked some more
+  * rescued some of the code i had deleted and put it to use - make a scale after getting min and max, done at summary table level
+  * income being negative is a little skewed, but it affects all the other charts :/
+    * for now, i shall scale income, housing, and savings separately - hardcoded in summary table
+    * ehh, it's okay, a little funky but i'm gonna put it on the future list and move on for now
+* base cases on no data for tithe and outlier charts
+* controlling sizes and divs and making things look better, sections
+  * i don't like drop downs but.... they r good.... argh
+  * haha color also can invert wrapped img - expects img pngs to be black originally
+  * so hard to align :(
+  * updated updateColorStyleTransitions to use dstmosall length instead of dstmos length - think it's fixed, until observed again it's coming off the list
+  * mo controller buttons
+  * summary bar charts can be minimized
+* add double click summary table redirect to details on:
+  * cat label
+  * month label
 ## FUTURE FUTURE
+* test minimized summary widgets esp as dstmos changes, may need to force expand? not sure
+* last month on savings chart is hardcoded
+* hover by value legend not great, not hovering all, + how to choose which categories to include
 * rank the savings
 * figure out budget
-* figure out notecleaner
-* figure out colors as add and remove months
+* edit notecleaner
+* change categories
+* last edited/imported
 * mass note edit
 * exportable reports
-* categories
+* categories page
+* zoom timing, + size
 * outlier chart only uses months??????????? don't know what i meant
   * duplicate checker, search by ...
   * don't reload on post/delete - need to also update search; scroll to spot; other changes - maybe a notification
