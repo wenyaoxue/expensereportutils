@@ -571,8 +571,14 @@
 * add double click summary table redirect to details on:
   * cat label
   * month label
+## 5/30 20min
+* changing to exactly the default search not working (even if you're changing from the previous value) because it thinks it's the first one; changing to not check for match default before posting (note was using JSON.stringify == JSON.stringify)
+* updated backend default search sort to be DateDsc instead of Date, now can't delete the one that was default generated right after you deleted the last search
+* figuring out block - if minimized and then months are changed to not have data, will stay inline-block when it does get data
+* still getting color problems
 ## FUTURE FUTURE
 * test minimized summary widgets esp as dstmos changes, may need to force expand? not sure, also widths need to be controlled, theyre getting small
+* still getting color problems
 * last month on savings chart is hardcoded
 * hover by value legend not great, not hovering all, + how to choose which categories to include
 * rank the savings
