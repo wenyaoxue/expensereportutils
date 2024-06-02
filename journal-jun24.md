@@ -1,4 +1,4 @@
-## 6/1 5h
+## 6/1 5h + 25min net zero work done
 * working on summary charts/widgets
   * figuring out how to handle blocks, no transaction edge cases
     * full -> minimized -> select months where edge case, becomes text -> select non edge months = get all data + still inline
@@ -20,7 +20,8 @@
   * finished updating the select i think (wanted to try something fancier/more efficient but too complicated)
     * btw: this solves the same row different col or something unselects
   * for click to remove/add category: note will have to update summaries dict
- 
+  * cannot figure out how to arrange zoomed cells so the intersection is actually on top
+    * looks like z-index doesn't work on table cells
 ## FUTURE FUTURE
 * break up transactions, split cost among multiple
 * still getting color problems
