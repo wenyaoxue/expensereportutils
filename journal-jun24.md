@@ -22,7 +22,42 @@
   * for click to remove/add category: note will have to update summaries dict
   * cannot figure out how to arrange zoomed cells so the intersection is actually on top
     * looks like z-index doesn't work on table cells
+## 6/2 6h25
+* updating things with selCats changing - table, other stuff. is quite invasive
+  * savings cat bar (parallel to paid bar... idk)
+  * changing some selects to querySelectorAll instead of checking all cats
+  * CATDATA -> selCats
+  * useEffect on selCats
+* gonna pivot for a while to work on categories page
+  * thinking about a permanent other on categories - so it doesn't need its own edge case ... idk
+  * can't delete cat tithe or income or other (altho no other)
+  * prevent from adding other
+  * stacking vertically
+```
+.display {
+    background-color: aqua;
+    min-height: 10px;
+    max-height: 400px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    display: flex;
+    overflow: auto;
+}
+```
+  * making things look nicer - icons, collapsible pieces, colors, etc.
+  * sorted display by most to least purchases ... ya maybe this is better idk
+  * sorted dropdown alphabetically
+* pivoting again - cleaning up summary table
+  * legend table icons and text - easier to understand, and gets selected on hover table! (for both intra and inter)
+  * row345 also can rank inter
+  * savings text invisible until hovered! thinking of stacking cat on top of month - yea
+  * added summariesByCat - and 2 bars in savings, why is it so hard to get them to fit properly - starting a util to do generically, testing ish in savings.js, will be used from there i guess
+    * the reason the bar doesn't fit is because summariesByCat is not updated with dstmos... ah geez
 ## FUTURE FUTURE
+* savings bars don't fit - keep summariesByCat updated with dstmos
+* summariesByCat vis
+* unselected cats widget
+* handle tied rank
 * break up transactions, split cost among multiple
 * still getting color problems
 * last month on savings chart is hardcoded
