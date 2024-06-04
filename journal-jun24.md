@@ -54,11 +54,14 @@
   * added summariesByCat - and 2 bars in savings, why is it so hard to get them to fit properly - starting a util to do generically, testing ish in savings.js, will be used from there i guess
     * the reason the bar doesn't fit is because summariesByCat is not updated with dstmos... ah geez
 
-## 6/3 25min
+## 6/3 25min + 1h25min
 * created an EXPREP state, moving things into useEffect on EXPREP and CATDATA
 * note budget is causing a lot of problems, will have to circle back eventually, for now value is just 1
 * tried moving stuff into functions
 * net zero observable differences lol except breaking budget
+* tithe and outlier charts broken sometimes
+* functions/comments
+* working on a generic stacked bar - not so bad :)
 ## FUTURE FUTURE
 * savings bars don't fit - keep summariesByCat updated with dstmos
 * summariesByCat vis
