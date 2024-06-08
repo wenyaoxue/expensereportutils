@@ -62,6 +62,8 @@
 * tithe and outlier charts broken sometimes
 * functions/comments
 * working on a generic stacked bar - not so bad :)
+## 6/8 ~45min
+* progress on generic stacked bar - adding things like class and setHovered, goin well, got rid of old month savings bar, this works and looks in code and on the page much better 
 ## FUTURE FUTURE
 * savings bars don't fit - keep summariesByCat updated with dstmos
 * summariesByCat vis
