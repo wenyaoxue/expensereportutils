@@ -63,9 +63,19 @@
 * functions/comments
 * working on a generic stacked bar - not so bad :)
 ## 6/8 ~45min
-* progress on generic stacked bar - adding things like class and setHovered, goin well, got rid of old month savings bar, this works and looks in code and on the page much better 
+* progress on generic stacked bar - adding things like class and setHovered, goin well, got rid of old month savings bar, this works and looks in code and on the page much better
+## 6/11 4h
+* pretty much finished generic stacked bar, polymorphism - less vars sent, tested a lot to make sure all good before deleting old stuff
+* thinking about how to structure these dicts so they represent the same vals - both dstmo and cat control both the net charts
+* added a total column to the table, to compare
+* getting rid of borderLefts
+* keeping summaries by cat totals updated ....hmmmm
+  * keeping summariesbycat and summariesbycattots separately - looks okay at general checks
+* some rounding issues, but generally the savings bars are way better! easier to control size, easier to understand - more standardize, all fits
+* swapped out some buttons for icons, trying to set their placement
+* adding a hovered general summary up top - gotta put this all in a component later
+* note other in summariesByCatTots ?? not sure
 ## FUTURE FUTURE
-* savings bars don't fit - keep summariesByCat updated with dstmos
 * summariesByCat vis
 * unselected cats widget
 * handle tied rank
