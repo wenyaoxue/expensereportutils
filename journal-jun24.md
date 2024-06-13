@@ -75,6 +75,12 @@
 * swapped out some buttons for icons, trying to set their placement
 * adding a hovered general summary up top - gotta put this all in a component later
 * note other in summariesByCatTots ?? not sure
+## 6/12 maybe 4.5 hrs?
+* computer crashed around 00:55. lost my log here too. :/
+* but good progress!
+* added hoverfeedback, table with calculations and display controlled based on frozen or not
+* added freezer/microwave, and sub one for widget, can control what on summary to freeze
+* i think that's it??? sad i lost my log but at least i lost no work
 ## FUTURE FUTURE
 * summariesByCat vis
 * unselected cats widget
