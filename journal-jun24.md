@@ -75,19 +75,19 @@
 * swapped out some buttons for icons, trying to set their placement
 * adding a hovered general summary up top - gotta put this all in a component later
 * note other in summariesByCatTots ?? not sure
-## 6/12 maybe 4.5 hrs?
+## 6/12 maybe 4.5+ hrs?
 * computer crashed around 00:55. lost my log here too. :/
 * but good progress!
 * added hoverfeedback, table with calculations and [display](https://stackoverflow.com/questions/6297591/how-to-invert-transpose-the-rows-and-columns-of-an-html-table) controlled based on frozen or not
 * added freezer/microwave, and sub one for widget, can control what on summary to freeze
 * i think that's it??? sad i lost my log but at least i lost no work
 ## FUTURE FUTURE
-* summariesByCat vis
+* summariesbymo +-
+* hide controls when mouseleave? show when mouseenter? for collapse/expand and freeze/thaw
 * unselected cats widget
 * handle tied rank
 * break up transactions, split cost among multiple
 * still getting color problems
-* last month on savings chart is hardcoded
 * hover by value legend not great, not hovering all, + how to choose which categories to include
 * rank the savings
 * figure out budget
