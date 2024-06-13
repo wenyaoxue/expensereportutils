@@ -78,7 +78,7 @@
 ## 6/12 maybe 4.5 hrs?
 * computer crashed around 00:55. lost my log here too. :/
 * but good progress!
-* added hoverfeedback, table with calculations and display controlled based on frozen or not
+* added hoverfeedback, table with calculations and [display]([url](https://stackoverflow.com/questions/6297591/how-to-invert-transpose-the-rows-and-columns-of-an-html-table)) controlled based on frozen or not
 * added freezer/microwave, and sub one for widget, can control what on summary to freeze
 * i think that's it??? sad i lost my log but at least i lost no work
 ## FUTURE FUTURE
