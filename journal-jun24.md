@@ -83,16 +83,22 @@
 * added hoverfeedback, table with calculations and [display](https://stackoverflow.com/questions/6297591/how-to-invert-transpose-the-rows-and-columns-of-an-html-table) controlled based on frozen or not
 * added freezer/microwave, and sub one for widget, can control what on summary to freeze
 * i think that's it??? sad i lost my log but at least i lost no work
-
+## 6/13 2h20m
+* found some problems while updating my own stuff
 ![image](https://github.com/wenyaoxue/expensereportutils/assets/119467979/3be2152f-50bb-4ecd-baa8-a008bcbf19b5)
 ![image](https://github.com/wenyaoxue/expensereportutils/assets/119467979/924710c5-5885-4969-be4f-e2078caa33aa)
 
 Called update transactions
 {"id":"1391","Date":"06-08-2024","Time":"","Type":"P","Amount":12.98,"Note":"target gg vegetable and brioche pas 00025163091 allen tx","Unknown":"","Details on":"discover 0608","Reviewed":"06-13-2024","Discount":""}
 might have something to do with IDs?
-
+* put view toggle in a component
+* view and freeze toggles shown when hovered over relevant component + transparent until hovered on toggle itself
+* made most of the controls on summary like that - hidden until hovered the item it controls, transparent until hovered the control
+  * will have to think. opacity 0-1 or display inline or none, none means the spacing will change, because it'll try to stay centered, not sure how to center
+* cleared out borders
+* moved hoverfeedback around
+* spent alot of time today just playing with things - lot of interactive things added today
 ## FUTURE FUTURE
-* hide controls until hover
 * click and drag to select details
 * double click transaction to search???
 * details weekday search
