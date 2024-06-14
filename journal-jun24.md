@@ -83,6 +83,10 @@
 * added freezer/microwave, and sub one for widget, can control what on summary to freeze
 * i think that's it??? sad i lost my log but at least i lost no work
 ## FUTURE FUTURE
+* click and drag to select details
+* double click transaction to search???
+* details weekday search
+* handle zoom in more cleanly
 * summariesbymo +-
 * hide controls when mouseleave? show when mouseenter? for collapse/expand and freeze/thaw
 * unselected cats widget
