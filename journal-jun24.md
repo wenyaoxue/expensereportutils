@@ -83,6 +83,9 @@
 * added hoverfeedback, table with calculations and [display](https://stackoverflow.com/questions/6297591/how-to-invert-transpose-the-rows-and-columns-of-an-html-table) controlled based on frozen or not
 * added freezer/microwave, and sub one for widget, can control what on summary to freeze
 * i think that's it??? sad i lost my log but at least i lost no work
+
+![image](https://github.com/wenyaoxue/expensereportutils/assets/119467979/3be2152f-50bb-4ecd-baa8-a008bcbf19b5)
+
 ## FUTURE FUTURE
 * hide controls until hover
 * click and drag to select details
