@@ -23,6 +23,7 @@
   * cannot figure out how to arrange zoomed cells so the intersection is actually on top
     * looks like z-index doesn't work on table cells
 ## 6/2 6h25
+* duplicates after update???
 * updating things with selCats changing - table, other stuff. is quite invasive
   * savings cat bar (parallel to paid bar... idk)
   * changing some selects to querySelectorAll instead of checking all cats
