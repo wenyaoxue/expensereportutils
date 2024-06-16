@@ -98,13 +98,14 @@ might have something to do with IDs?
 * cleared out borders
 * moved hoverfeedback around
 * spent alot of time today just playing with things - lot of interactive things added today
+## 6/16 08:40 - 09:25 net zero visible changes (i hope)
+* trying to figure out how to handle this unselected cat widget
 ## FUTURE FUTURE
 * click and drag to select details
 * double click transaction to search???
 * details weekday search
 * handle zoom in more cleanly
-* summariesbymo +-
-* hide controls when mouseleave? show when mouseenter? for collapse/expand and freeze/thaw
+* summariesbymo +- for hoveredFeedback cross + -
 * unselected cats widget
 * handle tied rank
 * break up transactions, split cost among multiple
