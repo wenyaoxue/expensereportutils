@@ -98,9 +98,12 @@ might have something to do with IDs?
 * cleared out borders
 * moved hoverfeedback around
 * spent alot of time today just playing with things - lot of interactive things added today
-## 6/16 08:40 - 09:25 net zero visible changes (i hope)
+## 6/16 45min net zero visible changes (i hope) + 2h net zero functional changes (i hope), just some organizing/divs/components
 * trying to figure out how to handle this unselected cat widget
+* continued thinking about unselected widgets, seems too daunting. gonna pivot for a bit
+* moved transparent on mouseLeave opaque on mouseEnter and default transparent to a component ActionButton. moved other stuff into functions and into versions of this component. hopefully still net zero visible changes, at least functionally, just some alignment stuff - hopefully that's all
 ## FUTURE FUTURE
+* if width % gets under certain fixed size, use arrows page
 * click and drag to select details
 * double click transaction to search???
 * details weekday search
