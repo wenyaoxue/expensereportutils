@@ -102,6 +102,8 @@ might have something to do with IDs?
 * trying to figure out how to handle this unselected cat widget
 * continued thinking about unselected widgets, seems too daunting. gonna pivot for a bit
 * moved transparent on mouseLeave opaque on mouseEnter and default transparent to a component ActionButton. moved other stuff into functions and into versions of this component. hopefully still net zero visible changes, at least functionally, just some alignment stuff - hopefully that's all
+## 6/22 40+min cleaning up toggles
+* cleaning up toggles
 ## FUTURE FUTURE
 * if width % gets under certain fixed size, use arrows page
 * click and drag to select details
