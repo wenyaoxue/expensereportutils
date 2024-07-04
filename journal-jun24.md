@@ -108,7 +108,16 @@ might have something to do with IDs?
 * search month arrows! left/right on year/month, + go to first/last
 * using veryicon for pngs
 * redoing selectedcell, hmm, maybe will have one for td and one for not, trying to make it stable
+## 7/4 2ish hours
+* using a new ergonomic keyboard - might be slow
+* in addition to regular .selectedcell rule, added a rule for #sumtable td.selectedcell
+* played with it, thinking what to do next....
+* trying to decide how to declutter, not sure how. can use classes when i decide. trying to find a balance between fixed/predictable and centered. hm
+* idea for summarymocontroller - put all deselected with edits, and have current selected next to selected. idk
+  * did it kinda
+* tryna do a table zoom, tryna figure out press and hold.... hard 
 ## FUTURE FUTURE
+* note on month, cat, month-cat
 * if width % gets under certain fixed size, use arrows page
 * click and drag to select details
 * double click transaction to search???
@@ -128,7 +137,6 @@ might have something to do with IDs?
 * mass note edit
 * exportable reports
 * categories page
-* zoom timing, + size
 * outlier chart only uses months??????????? don't know what i meant
   * duplicate checker, search by ...
   * don't reload on post/delete - need to also update search; scroll to spot; other changes - maybe a notification
