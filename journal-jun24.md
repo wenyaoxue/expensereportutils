@@ -108,14 +108,17 @@ might have something to do with IDs?
 * search month arrows! left/right on year/month, + go to first/last
 * using veryicon for pngs
 * redoing selectedcell, hmm, maybe will have one for td and one for not, trying to make it stable
-## 7/4 2ish hours
+## 7/4 2ish hours, 40ish min
 * using a new ergonomic keyboard - might be slow
 * in addition to regular .selectedcell rule, added a rule for #sumtable td.selectedcell
 * played with it, thinking what to do next....
 * trying to decide how to declutter, not sure how. can use classes when i decide. trying to find a balance between fixed/predictable and centered. hm
 * idea for summarymocontroller - put all deselected with edits, and have current selected next to selected. idk
   * did it kinda
-* tryna do a table zoom, tryna figure out press and hold.... hard 
+* tryna do a table zoom, tryna figure out press and hold.... hard
+  * just changing font on click, can't figure out hold for this for now
+* cleaned up summary mocontroller more
+* added some ranking markers for 33, 67, etc (even). idk. maybe i should have this text not be in a cell. i'm tired
 ## FUTURE FUTURE
 * note on month, cat, month-cat
 * if width % gets under certain fixed size, use arrows page
