@@ -104,6 +104,10 @@ might have something to do with IDs?
 * moved transparent on mouseLeave opaque on mouseEnter and default transparent to a component ActionButton. moved other stuff into functions and into versions of this component. hopefully still net zero visible changes, at least functionally, just some alignment stuff - hopefully that's all
 ## 6/22 40+min cleaning up toggles
 * cleaning up toggles
+## 7/3 30min? forgot to stop timing when I started just using as a customer
+* search month arrows! left/right on year/month, + go to first/last
+* using veryicon for pngs
+* redoing selectedcell, hmm, maybe will have one for td and one for not, trying to make it stable
 ## FUTURE FUTURE
 * if width % gets under certain fixed size, use arrows page
 * click and drag to select details
