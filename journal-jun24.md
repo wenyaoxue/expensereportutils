@@ -108,7 +108,7 @@ might have something to do with IDs?
 * search month arrows! left/right on year/month, + go to first/last
 * using veryicon for pngs
 * redoing selectedcell, hmm, maybe will have one for td and one for not, trying to make it stable
-## 7/4 2ish hours, 40ish min
+## 7/4 2ish hours, 40ish min, 20min
 * using a new ergonomic keyboard - might be slow
 * in addition to regular .selectedcell rule, added a rule for #sumtable td.selectedcell
 * played with it, thinking what to do next....
@@ -119,13 +119,13 @@ might have something to do with IDs?
   * just changing font on click, can't figure out hold for this for now
 * cleaned up summary mocontroller more
 * added some ranking markers for 33, 67, etc (even). idk. maybe i should have this text not be in a cell. i'm tired
+* working on adding DOW search, also trying to move search into components
 ## FUTURE FUTURE
 * note on month, cat, month-cat
 * if width % gets under certain fixed size, use arrows page
 * click and drag to select details
 * double click transaction to search???
 * details weekday search
-* handle zoom in more cleanly
 * summariesbymo +- for hoveredFeedback cross + -
 * unselected cats widget
 * handle tied rank
