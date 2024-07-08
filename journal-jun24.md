@@ -120,6 +120,10 @@ might have something to do with IDs?
 * cleaned up summary mocontroller more
 * added some ranking markers for 33, 67, etc (even). idk. maybe i should have this text not be in a cell. i'm tired
 * working on adding DOW search, also trying to move search into components
+## 7/7 3h50m
+* moving search into components
+* tried using a mousedown state getting passed to children to do stuff on mouse enter - not fast enough. very bad.
+* swapped out search stuff for icons, added a hide and show version for each! so we've got a clean view and an editing view.
 ## FUTURE FUTURE
 * note on month, cat, month-cat
 * if width % gets under certain fixed size, use arrows page
