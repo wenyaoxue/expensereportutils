@@ -124,6 +124,13 @@ might have something to do with IDs?
 * moving search into components
 * tried using a mousedown state getting passed to children to do stuff on mouse enter - not fast enough. very bad.
 * swapped out search stuff for icons, added a hide and show version for each! so we've got a clean view and an editing view.
+## 7/10 2h55m 
+* moved all search fields into components with edit and nonedit view
+* search fields get placed in freezer or fridge whenever the state changes
+* icons, css
+  * header
+  * transaction table header, + figuring out what to do when click (add search?)
+* playing around
 ## FUTURE FUTURE
 * note on month, cat, month-cat
 * if width % gets under certain fixed size, use arrows page
