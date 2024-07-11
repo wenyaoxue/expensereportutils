@@ -131,6 +131,10 @@ might have something to do with IDs?
   * header
   * transaction table header, + figuring out what to do when click (add search?)
 * playing around
+## 7/11 fewmin + 1hr
+* searchfridge shown only when editing
+* buttons to clean freezer or freeze all
+* figuring out search editing vs not, wordings and placements
 ## FUTURE FUTURE
 * note on month, cat, month-cat
 * if width % gets under certain fixed size, use arrows page
