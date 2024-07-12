@@ -131,10 +131,16 @@ might have something to do with IDs?
   * header
   * transaction table header, + figuring out what to do when click (add search?)
 * playing around
-## 7/11 fewmin + 1hr
+## 7/11 fewmin + 1hr + 40min
 * searchfridge shown only when editing
 * buttons to clean freezer or freeze all
 * figuring out search editing vs not, wordings and placements
+* random transaction tableholder css
+* `npm i react-dialog-confirm` - eh not using lol
+* `npm install primereact`
+  * haha doin pretty well using this. now i'm feeling a little sad about losing my lousy little action button lol.
+  * https://primereact.org/confirmpopup/
+  * edit in stackblitz 
 ## FUTURE FUTURE
 * note on month, cat, month-cat
 * if width % gets under certain fixed size, use arrows page
