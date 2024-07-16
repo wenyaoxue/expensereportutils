@@ -140,7 +140,12 @@ might have something to do with IDs?
 * `npm install primereact`
   * haha doin pretty well using this. now i'm feeling a little sad about losing my lousy little action button lol.
   * https://primereact.org/confirmpopup/
-  * edit in stackblitz 
+  * edit in stackblitz
+## 7/15 1h15m
+* fixed date being custom range when it should be custom one date
+* this float left and right business to highlight selected icon - not great. put in div for date so at least no overlap
+* temp function to add days of week to all, put inside of transaction.toJson so every add should (idk did not think it through thoroughly/clearly) have a day of week property
+* redoing how delete maintains IDs, got rid of delete by object key vals, shouldn't mess up with deletes (idk did not think it through thoroughly/clearly), got rid of manually redo all IDs
 ## FUTURE FUTURE
 * note on month, cat, month-cat
 * if width % gets under certain fixed size, use arrows page
