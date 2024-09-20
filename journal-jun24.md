@@ -146,6 +146,9 @@ might have something to do with IDs?
 * this float left and right business to highlight selected icon - not great. put in div for date so at least no overlap
 * temp function to add days of week to all, put inside of transaction.toJson so every add should (idk did not think it through thoroughly/clearly) have a day of week property
 * redoing how delete maintains IDs, got rid of delete by object key vals, shouldn't mess up with deletes (idk did not think it through thoroughly/clearly), got rid of manually redo all IDs
+## 9/19 20min
+* added discover bank import
+  * including edited importnotecleaner json
 ## FUTURE FUTURE
 * note on month, cat, month-cat
 * if width % gets under certain fixed size, use arrows page
