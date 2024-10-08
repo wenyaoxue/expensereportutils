@@ -150,6 +150,7 @@ might have something to do with IDs?
 * added discover bank import
   * including edited importnotecleaner json
 ## FUTURE FUTURE
+* edit from transactions page - reload when switch to summary
 * note on month, cat, month-cat
 * if width % gets under certain fixed size, use arrows page
 * click and drag to select details
