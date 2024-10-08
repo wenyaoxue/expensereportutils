@@ -149,6 +149,9 @@ might have something to do with IDs?
 ## 9/19 20min
 * added discover bank import
   * including edited importnotecleaner json
+# 10/7 10min
+* replaced == and !=
+* set a fixed height for legend table in the summarytable css, so different selection won't move the rest of the page up/down
 ## FUTURE FUTURE
 * edit from transactions page - reload when switch to summary
 * note on month, cat, month-cat
